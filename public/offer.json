@@ -1,0 +1,170 @@
+{
+  "title": "Desarrollador Javascript (Carrera + 1 año exp. o Grado FP + 3 años exp.).",
+  "id": "b54b45de954e3c80e89a535e2282b8",
+  "state": 3,
+  "creationDate": "2023-04-28T08:44:28.000+0000",
+  "updateDate": "2023-04-28T08:44:28.000+0000",
+  "city": "Sevilla",
+  "externalUrlForm": "",
+  "blocked": false,
+  "applications": 1,
+  "province": {
+     "id": 43,
+     "value": "Sevilla"
+  },
+  "experienceMin": {
+     "id": 3,
+     "value": "Al menos 3 años"
+  },
+  "category": {
+     "id": 150,
+     "value": "Informática y telecomunicaciones"
+  },
+  "subcategory": {
+     "id": 3124,
+     "value": "Programación"
+  },
+  "studiesMin": {
+     "id": 120,
+     "value": "Ingeniería Técnica"
+  },
+  "residence": {
+     "id": 0,
+     "value": "(Seleccionar)"
+  },
+  "country": {
+     "id": 17,
+     "value": "España"
+  },
+  "contractType": {
+     "id": 1,
+     "value": "Indefinido"
+  },
+  "journey": {
+     "id": 1,
+     "value": "Completa"
+  },
+  "subSegment": 22,
+  "profile": {
+     "id": "66565251484951979810017006314458008415",
+     "name": "abde business consulting",
+     "description": "abde business consulting es una compañía, española, de Consultoria e Ingeniería especializada en servicios de alto valor añadido.\n\nAcompañamos a nuestros clientes en la realización de sus proyectos con el fin de ayudarles a ampliar su negocio y crear más valor.\n",
+     "province": {
+        "id": 33,
+        "value": "Madrid"
+     },
+     "web": "http://www.abde-bc.com",
+     "numberWorkers": 30,
+     "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/0f/0f642d0a-d371-4b11-bafa-41cfc60e1e8f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0MjY0MDIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wZi8wZjY0MmQwYS1kMzcxLTRiMTEtYmFmYS00MWNmYzYwZTFlOGYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.mmzIbiLLmSd8RSkhbJsffqrlRhL9uipPgJUgZx23HZwf5USDdgNGdGYsgSnsoequhPWlQIr8x_WymTl0ODpjBGYgdr9OE0mwxfVpBBvCI4GAGMEWXs96ekKhn9O8crLie7Yy-57VHlueP_sGTqx-roXqRPw_x0cWfjqHMoMxJvmDkulOZbLRuQibEJpP9bv8qzRFNnX-SAxGzJWh6kYjUKfsPx-vrsmobiPHp70TOyw8PLXOSCsCWrpXfB4DodAluOt2I_drGSzg7ubo3hy-Vkso4Z4ijiaQFWh5f7xDBb1TETJk5WR_hjiM05EyydcCtu13Nrg4avigvxfhUamiOA&AccessKeyId=d724d9a53d95a810",
+     "url": "http://www.abde-bc.com",
+     "corporateWebsiteUrl": "//abde-bc.ofertas-trabajo.infojobs.net",
+     "websiteUrl": "",
+     "hidden": false,
+     "typeIndustry": {
+        "id": 28,
+        "value": "Servicios y tecnología de la información"
+     },
+     "country": {
+        "id": 17,
+        "value": "España"
+     },
+     "corporateResponsive": false,
+     "showCorporativeHeader": false,
+     "clientId": 8600887000,
+     "followable": true
+  },
+  "cityPD": 5200,
+  "zipCode": "41001",
+  "latitude": 0,
+  "longitude": 0,
+  "exactLocation": false,
+  "department": "",
+  "vacancies": 1,
+  "minRequirements": "Al menos 1 año de experiencia profesional relevante teniendo la Carrera de 4 años o 3 años de experiencia teniendo Grado (FP).\n· Conocimiento profundo del inglés tanto a nivel oral como escrito (mín. B2)\n· Habilidades interpersonales, organizativas y de resolución de problemas comprobadas, y la capacidad de trabajar de forma independiente y como parte de un equipo.\n· Experiencia con herramientas y técnicas modernas de desarrollo de JavaScript\n· Experiencia con Typescript y el framework Angular\n· Conocimientos básicos de Java y el framework Spring\n\nValorable:\n· UI design\n· SQL\n· Source versioning tools (pref. Git)\n· Agile methodologies\n· Microsoft PowerApps",
+  "description": "Seleccionamos Desarrollador Javascript para interesante proyecto de la Comisión Europea en Sevilla.\n\nOfrecemos:\n- Contrato indefinido, proyecto de larga duración.\n- Salario de 30.000€ cumpliendo los requisitos.\n\nLugar de trabajo: Sevilla.\nPosibilidad de teletrabajo (2 o 3 días en oficina y los otros en remoto pero viviendo a máximo 2 horas de las oficinas).",
+  "desiredRequirements": "",
+  "commissions": "",
+  "contractDuration": "",
+  "referenceId": "",
+  "detailedStudiesId": -11,
+  "studying": false,
+  "showPay": true,
+  "multiProvince": false,
+  "maxPay": {
+     "amount": 30000,
+     "amountId": 280,
+     "periodId": 3,
+     "periodValue": "Bruto/año",
+     "amountValue": "30.000 €"
+  },
+  "minPay": {
+     "amount": 27000,
+     "amountId": 275,
+     "periodId": 3,
+     "periodValue": "Bruto/año",
+     "amountValue": "27.000 €"
+  },
+  "schedule": "",
+  "jobLevel": {
+     "id": 2,
+     "value": "Empleado/a"
+  },
+  "staffInCharge": {
+     "id": 0,
+     "value": "(Seleccionar)"
+  },
+  "hasKillerQuestions": 0,
+  "hasOpenQuestions": 0,
+  "upsellings": {
+     "highlightHomeMonth": false,
+     "highlightHomeWeek": false,
+     "highlightSubcategory": false,
+     "highlightLogo": false,
+     "highlightColor": false,
+     "highlightUrgent": false,
+     "highlightStandingOffer": false
+  },
+  "epreselec": false,
+  "fiscalAddress": "C/ Siena 37, 28027 Madrid, MADRID, España",
+  "shouldAskExportConsent": true,
+  "exportConsentName": "::8600887000",
+  "link": "https://www.infojobs.net/sevilla/desarrollador-javascript-carrera-1-ano-exp.-grado-fp-3-anos-exp.-./of-ib54b45de954e3c80e89a535e2282b8",
+  "active": false,
+  "archived": false,
+  "deleted": true,
+  "disponibleForFullVisualization": false,
+  "availableForVisualization": false,
+  "skillsList": [
+     {
+        "skill": "Java"
+     },
+     {
+        "skill": "Spring"
+     },
+     {
+        "skill": "Desarrollador"
+     },
+     {
+        "skill": "Angular"
+     },
+     {
+        "skill": "JavaScript"
+     },
+     {
+        "skill": "Typescript"
+     },
+     {
+        "skill": "Git"
+     },
+     {
+        "skill": "UI"
+     },
+     {
+        "skill": "SQL"
+     },
+     {
+        "skill": "Agile"
+     }
+  ],
+  "salaryDescription": "27.000€ - 30.000€ Bruto/año"
+}
