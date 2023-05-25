@@ -1,51 +1,38 @@
-import { useState } from 'react'
 import './App.css'
 import { IconoFiltrar } from './components/LogosInfojobs.jsx'
 import { OfertasSection } from './components/OfertasSection'
 import { ModalUser } from './components/ModalUser'
 import { HeaderPrincipal } from './components/HeaderPrincipal'
+import { useModal } from './hooks/useShowModal'
+import { useAppSelector } from './hooks/useStore'
 
 function App () {
-  const [showModal, setShowModal] = useState(true)
-  const [showModalFilter, setShowModalFilter] = useState(false)
-
-  const toggleModalInsertUsername = (e, showHide) => {
-    e?.preventDefault()
-    setShowModal(showHide)
-  }
+  const offers = useAppSelector(state => state.offersSlice)
+  const { toggleModals } = useModal()
 
   const toggleModalFilter = (showModal) => {
-    setShowModalFilter(showModal)
+    toggleModals({ type: 'filter', showModal })
   }
 
   return (
     <>
-      <HeaderPrincipal
-        toggleModalInsertUsername={toggleModalInsertUsername}
-      />
+      <HeaderPrincipal />
       <main className='my-2'>
-        {/* <p>{ofertas?.totalResults} ofertas de <span className='text-blue-600'>{ofertas?.queryParameters?.query}</span></p> */}
         <div className='flex justify-between items-center mx-4'>
           <p className='my-1 w-full overflow-hidden text-ellipsis whitespace-nowrap'>
-            ofertas de <span className='text-blue-600' />
+            {offers?.totalResults} ofertas de <span className='font-bold'>{offers?.queryParameters?.query}</span>
           </p>
           <button
-            className='flex items-center gap-1 hover:bg-blue-100 rounded-lg px-3 py-2 font-semibold uppercase text-[#2088c2] visible md:invisible'
+            className='flex items-center gap-1 hover:bg-[var(--hover-botones)] rounded-lg px-3 py-2 font-semibold uppercase text-[var(--color-logo-infojobs)] visible md:invisible'
             onClick={() => toggleModalFilter(true)}
           >
             <span>Filtrar</span>
             <span><IconoFiltrar /></span>
           </button>
         </div>
-        <OfertasSection
-          showModalFilter={showModalFilter}
-          toggleModalFilter={toggleModalFilter}
-        />
+        <OfertasSection />
       </main>
-      <ModalUser
-        showModal={showModal}
-        toggleModalInsertUsername={toggleModalInsertUsername}
-      />
+      <ModalUser />
     </>
   )
 }

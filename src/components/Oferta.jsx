@@ -1,4 +1,5 @@
 import { IMAGE_COMPANY_DEFAULT } from '../consts'
+import { AvisoOffer } from './AvisoOffer'
 import { FechaPublicacionOferta } from './FechaPublicacionOferta'
 import { InfoCard } from './InfoCard'
 
@@ -7,7 +8,7 @@ export const Oferta = ({ oferta, showModalOffer }) => {
 
   return (
     <li
-      className='bg-white flex flex-col gap-5 p-3 rounded-lg shadow-lg cursor-pointer hover:bg-blue-100'
+      className='bg-[var(--bg-item-offer)] flex flex-col gap-5 p-3 rounded-lg shadow-lg cursor-pointer hover:bg-[var(--bg-item-offer-hover)]'
       onClick={() => showModalOffer(oferta.id, true)}
     >
       <header className='flex gap-4'>
@@ -20,39 +21,43 @@ export const Oferta = ({ oferta, showModalOffer }) => {
         </picture>
 
         <div>
-          <h2 className='font-semibold text-[#292e31] titleOffer'>
+          {oferta.bold && (
+            <AvisoOffer
+              text='Destacado'
+              customStyles='bg-[var(--bg-bold-offer)]'
+            />
+          )}
+          <h2 className='font-semibold text-[var(--color-titulo-oferta)] titleOffer'>
             {oferta.title}
           </h2>
           <a
             href={oferta.author.uri}
-            className='text-blue-800 hover:underline'
+            className='text-[var(--enlace-empresa-oferta)] hover:text-[var(--enlace-empresa-oferta-hover)] hover:underline'
             target='_blank'
             rel='noreferrer'
             onClick={e => e.stopPropagation()}
           >
             {oferta.author.name}
           </a>
-          <ul className='flex flex-col md:flex-row md:gap-2'>
+          <ul className='flex flex-col-reverse md:flex-row md:gap-2 text-[var(--color-detalles-oferta)]'>
             <InfoCard
               content={oferta.teleworking.value}
-              customStyles='text-gray-500'
             />
             <InfoCard
               content='|'
-              customStyles='text-gray-500 hidden md:block'
+              customStyles='hidden md:block'
             />
             <InfoCard
               content={oferta.province.value}
-              customStyles='text-gray-500'
             />
             <InfoCard
               content='|'
-              customStyles='text-gray-500 hidden md:block'
+              customStyles='hidden md:block'
             />
             <FechaPublicacionOferta
               published={oferta.published}
               updated={oferta.updated}
-              customStyles='text-gray-500 text-sm mt-1'
+              customStyles='text-sm mt-1'
             />
           </ul>
         </div>
@@ -60,31 +65,26 @@ export const Oferta = ({ oferta, showModalOffer }) => {
       </header>
       <div className='hidden md:block'>
         <article className='hidden md:block'>
-          <p className='descriptionOffer text-gray-500'>
+          <p className='descriptionOffer text-[var(--color-detalles-oferta)]'>
             {oferta.requirementMin}
           </p>
         </article>
 
-        <ul className='flex gap-2 justify-end md:mt-3'>
+        <ul className='flex gap-2 justify-end md:mt-3 text-[var(--color-detalles-oferta)]'>
           <InfoCard
             content={`Contrato ${oferta.contractType.value}`}
-            customStyles='text-gray-500'
           />
           <InfoCard
             content='|'
-            customStyles='text-gray-500'
           />
           <InfoCard
             content={`Jornada ${oferta.workDay.value}`}
-            customStyles='text-gray-500'
           />
           <InfoCard
             content='|'
-            customStyles='text-gray-500'
           />
           <InfoCard
             content={oferta.salaryDescription}
-            customStyles='text-gray-500'
           />
         </ul>
       </div>

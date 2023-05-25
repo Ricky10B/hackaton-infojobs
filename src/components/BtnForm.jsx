@@ -4,7 +4,7 @@ export const BtnForm = ({ text }) => {
       <input
         type='submit'
         value={text}
-        className='bg-[#fa4c18] px-2 py-1 rounded-md outline-none border border-[#f24a17] font-bold text-white cursor-pointer tracking-wider hover:bg-[#d24216] w-full sm:w-max'
+        className='bg-[var(--bg-boton-enviar-formulario)] px-2 py-1 rounded-md outline-none border border-[var(--bg-boton-enviar-formulario)] font-bold text-white cursor-pointer tracking-wider hover:bg-[var(--bg-boton-enviar-formulario-hover)] w-full sm:w-max'
       />
     </div>
   )

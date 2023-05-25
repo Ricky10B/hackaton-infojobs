@@ -1,6 +1,11 @@
 import { getDatePublished } from '../utils/getDatePublished'
+import { AvisoOffer } from './AvisoOffer'
 
-export const FechaPublicacionOferta = ({ published, updated, customStyles }) => {
+export const FechaPublicacionOferta = ({
+  published,
+  updated,
+  customStyles
+}) => {
   const { timePublished } = getDatePublished(updated)
   let nueva = false
   let update = false
@@ -17,9 +22,16 @@ export const FechaPublicacionOferta = ({ published, updated, customStyles }) => 
   else if (menosDe1Dia && published !== updated) update = true
 
   return (
-    <li className={`${customStyles}`}>
-      Publicado hace <span className={nueva || update ? 'text-[#00a550] font-medium' : ''}>{timePublished} </span>
-      {nueva && <span className='bg-[#00a550] text-white py-[1px] px-[5px] rounded-[5px]'>Nueva</span>}
+    <li className={`${customStyles} tracking-wider`}>
+      <span className={nueva || update ? 'text-[var(--bg-new-offer)] font-medium mr-1' : ''}>
+        <span className='hidden sm:inline'>Publicado </span>
+        hace {timePublished}
+      </span>
+
+      {nueva && (
+        <AvisoOffer text='Nueva' customStyles='bg-[var(--bg-new-offer)]' />
+      )}
+
       {update && <span>(Publicada de nuevo)</span>}
     </li>
   )

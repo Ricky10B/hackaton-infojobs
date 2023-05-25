@@ -1,41 +1,91 @@
 import { ItemFiltro } from './ItemFiltro'
-import { IconoEquis } from './LogosInfojobs'
+import { useAppSelector } from '../hooks/useStore'
+import { useModal } from '../hooks/useShowModal'
+import { BtnCerrarModal } from './BtnCerrarModal'
 
-export const PanelFiltros = ({ showModalFilter, toggleModalFilter }) => {
+export const PanelFiltros = ({ sortByModality }) => {
+  const { modalFilter } = useAppSelector(state => state.modalsSlice)
+  const { toggleModals } = useModal()
+
+  const handleModalFilter = () => {
+    toggleModals({ type: 'filter', showModal: false })
+  }
+
   return (
-    <aside className={`${showModalFilter ? 'visible' : 'invisible'} md:visible bg-white rounded-md px-4 py-3 self-start fixed inset-0 z-20 overflow-auto md:sticky md:top-1 contenidoConScroll`}>
-      <span
-        className={`${showModalFilter ? 'visible' : 'invisible'} text-[#2088c2] cursor-pointer p-1 mb-1 rounded-full hover:bg-gray-200 absolute right-0 top-[1%] visible md:invisible`}
-        onClick={() => toggleModalFilter(false)}
-      >
-        <IconoEquis strokeWidth='4' />
-      </span>
+    <aside className={`${modalFilter ? 'visible' : 'invisible'} md:visible bg-[var(--bg-item-offer)] rounded-md px-4 py-3 self-start fixed inset-0 z-20 overflow-auto md:sticky md:top-1 contenidoConScroll`}>
+      {/* 2088c2 */}
+      {/* #002388 */}
+      <BtnCerrarModal
+        clickedModalUser={handleModalFilter}
+        customStyles={`${modalFilter ? 'visible' : 'invisible'} p-2 absolute right-[2%] top-[1%] visible md:invisible`}
+      />
       <div className='flex flex-col gap-4 h-[95vh] overflow-auto contenidoConScroll'>
         <fieldset>
           <legend className='font-medium py-1'>Ordenar ofertas</legend>
           <ul className='flex flex-col gap-1'>
             <ItemFiltro contentLabel='Fecha de publicación' nameInput='ordenOfertas' typeInput='radio' />
-            <ItemFiltro contentLabel='Relevancia' nameInput='ordenOfertas' typeInput='radio' />
+            <ItemFiltro contentLabel='Relevancia' nameInput='ordenOfertas' typeInput='radio' checked />
           </ul>
         </fieldset>
 
         <fieldset>
           <legend className='font-medium py-1'>Fecha</legend>
           <ul className='flex flex-col gap-1'>
-            <ItemFiltro contentLabel='Cualquier fecha' nameInput='desdeFecha' typeInput='radio' />
-            <ItemFiltro contentLabel='Últimas 24 Horas' nameInput='desdeFecha' typeInput='radio' />
-            <ItemFiltro contentLabel='Últimas 7 Días' nameInput='desdeFecha' typeInput='radio' />
-            <ItemFiltro contentLabel='Últimas 15 Días' nameInput='desdeFecha' typeInput='radio' />
+            <ItemFiltro
+              contentLabel='Cualquier fecha'
+              nameInput='desdeFecha'
+              typeInput='radio'
+              checked
+            />
+            <ItemFiltro
+              contentLabel='Últimas 24 Horas'
+              nameInput='desdeFecha'
+              typeInput='radio'
+            />
+            <ItemFiltro
+              contentLabel='Últimas 7 Días'
+              nameInput='desdeFecha'
+              typeInput='radio'
+            />
+            <ItemFiltro
+              contentLabel='Últimas 15 Días'
+              nameInput='desdeFecha'
+              typeInput='radio'
+            />
           </ul>
         </fieldset>
 
         <fieldset>
           <legend className='font-medium py-1'>Modalidad</legend>
           <ul className='flex flex-col gap-1'>
-            <ItemFiltro contentLabel='Híbrido' nameInput='modalidad' typeInput='checkbox' />
-            <ItemFiltro contentLabel='Remoto' nameInput='modalidad' typeInput='checkbox' />
-            <ItemFiltro contentLabel='Presencial' nameInput='modalidad' typeInput='checkbox' />
-            <ItemFiltro contentLabel='Sin especificar' nameInput='modalidad' typeInput='checkbox' />
+            <ItemFiltro
+              contentLabel='Híbrido'
+              nameInput='modalidad'
+              typeInput='checkbox'
+              value='Hibrido'
+              sortByModality={sortByModality}
+            />
+            <ItemFiltro
+              contentLabel='Remoto'
+              nameInput='modalidad'
+              typeInput='checkbox'
+              value='Remoto'
+              sortByModality={sortByModality}
+            />
+            <ItemFiltro
+              contentLabel='Presencial'
+              nameInput='modalidad'
+              typeInput='checkbox'
+              value='Presencial'
+              sortByModality={sortByModality}
+            />
+            <ItemFiltro
+              contentLabel='Sin especificar'
+              nameInput='modalidad'
+              typeInput='checkbox'
+              value='Sin especificar'
+              sortByModality={sortByModality}
+            />
           </ul>
         </fieldset>
 

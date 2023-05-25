@@ -1,6 +1,7 @@
-import { IconoEquis } from './LogosInfojobs'
 import { FechaPublicacionOferta } from './FechaPublicacionOferta'
 import offer from '../../public/offer.json'
+import { BtnCerrarModal } from './BtnCerrarModal'
+import { SubtituloModalOffer } from './SubtituloModalOffer'
 
 export const ModalOffer = ({ ofertaId, showModalOffer }) => {
   // const [offer, setOffer] = useState({})
@@ -17,14 +18,12 @@ export const ModalOffer = ({ ofertaId, showModalOffer }) => {
 
   return (
     <div className='fixed inset-0 backdrop-blur grid place-content-center z-50'>
-      <div className='flex flex-col gap-3 m-4 rounded-2xl shadow-[0_0_17px_rgba(0,0,0,.5)] bg-white max-w-7xl w-[95%] sm:w-10/12 lg:w-[75%] xl:w-[70%] h-[95%] mx-auto overflow-auto contenidoConScroll'>
-        <header className='flex flex-col gap-5 px-5 py-4 relative  sm:sticky sm:top-0 sm:bg-[#dbfbff] pb-1 sm:pb-2 sm:border-b sm:border-b-solid sm:border-b-[rgba(0,0,0,.4)]'>
-          <span
-            className='fixed sm:absolute top-[3%] sm:top-[1%] right-[5%] sm:right-[1%] text-[#2088c2] cursor-pointer p-1 mb-1 rounded-full hover:bg-gray-200'
-            onClick={() => showModalOffer(offer, false)}
-          >
-            <IconoEquis strokeWidth='4' />
-          </span>
+      <div className='flex flex-col gap-3 m-4 rounded-2xl shadow-[0_0_17px_rgba(0,0,0,.5)] bg-[var(--bg-modal-offer)] max-w-7xl w-[95%] sm:w-10/12 lg:w-[75%] xl:w-[70%] h-[95%] mx-auto overflow-auto contenidoConScroll'>
+        <header className='flex flex-col gap-5 px-5 py-4 relative  sm:sticky sm:top-0 sm:bg-[var(--bg-header-modal-offer)] pb-1 sm:pb-2 sm:border-b sm:border-b-solid sm:border-b-[rgba(0,0,0,.4)]'>
+          <BtnCerrarModal
+            clickedModalUser={() => showModalOffer(offer, false)}
+            customStyles='fixed sm:absolue top-[3%] right-[6%] sm:right-[11%] lg:right-[15%] xl:right-[19%] p-1'
+          />
           <div className='flex flex-col sm:grid sm:grid-cols-[minmax(6em,8em)_1fr] items-center gap-3'>
             <picture className='rounded-full shadow-[0_1px_7px_rgba(0,0,0,.6)]'>
               <img
@@ -41,7 +40,7 @@ export const ModalOffer = ({ ofertaId, showModalOffer }) => {
                     href={offer.profile.corporateWebsiteUrl}
                     target='_blank'
                     rel='noreferrer'
-                    className='text-blue-600 hover:text-blue-700 hover:underline'
+                    className='text-[var(--enlace-empresa-oferta)]  hover:text-[var(--enlace-empresa-oferta-hover)] hover:underline'
                   >{offer.profile.name}
                   </a>
                 </li>
@@ -51,7 +50,7 @@ export const ModalOffer = ({ ofertaId, showModalOffer }) => {
                       href={`https://www.google.com/maps/search/?api=1&query=${offer.latitude},${offer.longitude}&zoom=20`}
                       target='_blank'
                       rel='noreferrer'
-                      className='text-blue-600 hover:text-blue-700 hover:underline'
+                      className='text-[var(--enlace-empresa-oferta)] hover:text-[var(--enlace-empresa-oferta-hover)] hover:underline'
                     >Ubicación de la empresa
                     </a>
                   </li>}
@@ -63,16 +62,15 @@ export const ModalOffer = ({ ofertaId, showModalOffer }) => {
           </div>
           <div className='flex flex-col sm:flex-row gap-2 sm:gap-6 justify-between'>
             <div className='flex flex-col gap-1 md:gap-3 md:flex-row sm:justify-between'>
-              <ul className='[list-style:inside] [&>li]:text-sm flex flex-col gap-1'>
-                <li className='text-gray-950'>
+              <ul className='[list-style:inside] [&>li]:text-sm flex flex-col gap-1 text-[var(--color-detalles-oferta-modal)]'>
+                <li>
                   <span>{offer.city} {offer.province.value} {offer.country.value}</span>
                 </li>
                 <FechaPublicacionOferta
                   published={offer.creationDate}
                   updated={offer.updateDate}
-                  colorTextItem='text-gray-950'
                 />
-                <li className='text-gray-950'>
+                <li>
                   <span>Salario {offer?.salaryDescription ?? 'no disponible'}</span>
                 </li>
               </ul>
@@ -85,12 +83,12 @@ export const ModalOffer = ({ ofertaId, showModalOffer }) => {
                 </li>
               </ul>
             </div>
-            <div className='flex flex-col-reverse w-8/12 sm:w-9/12 sm:flex-col [&>span]:text-sm'>
+            <div className='flex flex-col-reverse w-8/12 sm:w-9/12 sm:flex-col [&>span]:text-sm text-[var(--color-detalles-oferta-modal)]'>
               <a
                 href={offer.link}
                 target='_blank'
                 rel='noreferrer'
-                className='bg-[#fa4c18] px-4 py-2 rounded-lg font-semibold text-white uppercase whitespace-nowrap w-max'
+                className='bg-[var(--bg-boton-enviar-formulario)] border-[var(--bg-boton-enviar-formulario)] hover:bg-[var(--bg-boton-enviar-formulario-hover)] px-4 py-2 rounded-lg font-semibold text-white uppercase whitespace-nowrap w-max'
               >Inscribirme en esta oferta
               </a>
               <span className='w-8/12 sm:w-9/12 lg:w-7/12'>Nuestro consejo: inscríbete si tienes el perfil, puede que se ajuste más que el de otros inscritos.</span>
@@ -99,7 +97,9 @@ export const ModalOffer = ({ ofertaId, showModalOffer }) => {
         </header>
 
         <section className='flex flex-col gap-4 px-5 pb-4'>
-          <h3 className='font-semibold text-xl'>Requisitos</h3>
+          <SubtituloModalOffer
+            text='Requisitos'
+          />
 
           <div className='flex flex-col gap-[6px] sm:flex-row sm:gap-16 [&>div]:flex [&>div]:flex-col [&>div]:gap-[6px]'>
             <div>
@@ -156,7 +156,9 @@ export const ModalOffer = ({ ofertaId, showModalOffer }) => {
             <ul className='flex flex-wrap w-9/12 gap-2'>
               {offer.skillsList.map(skill => (
                 <li key={skill.skill}>
-                  <span className='bg-blue-200 py-1 px-2 text-center text-sm rounded-lg'>{skill.skill}</span>
+                  <span className='bg-[var(--bg-skills-offer)] py-1 px-2 text-center text-sm rounded-lg'>
+                    {skill.skill}
+                  </span>
                 </li>
               ))}
             </ul>
@@ -180,7 +182,9 @@ export const ModalOffer = ({ ofertaId, showModalOffer }) => {
           </div>
 
           <div className='flex flex-col gap-3'>
-            <h3 className='text-2xl text-black font-semibold'>Descripción</h3>
+            <SubtituloModalOffer
+              text='Descripción'
+            />
             <p>{offer.profile.description}</p>
           </div>
         </section>

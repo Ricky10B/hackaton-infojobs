@@ -60,8 +60,8 @@
            "id": 3,
            "value": "Híbrido"
         },
-        "published": "2023-05-18T20:33:40.000Z",
-        "updated": "2023-05-18T20:33:40.000Z",
+        "published": "2023-05-24T20:33:40.000Z",
+        "updated": "2023-05-24T20:33:40.000Z",
         "author": {
            "id": "66565251484951979810017006314458008415",
            "privateId": 1461639038,
@@ -72,7 +72,7 @@
            "showCorporativeHeader": false
         },
         "requirementMin": "Al menos 1 año de experiencia profesional relevante teniendo la Carrera de 4 años o 3 años de experiencia teniendo Grado (FP). · Conocimiento profundo del inglés tanto a nivel oral como escrito (mín. B2) · Habilidades interpersonales, organizativas y de resolución de problemas comprobadas, y la capacidad de trabajar de forma independiente y como parte de un equipo. · Experiencia con herramientas y técnicas modernas de desarrollo de JavaScript · Experiencia con Typescript y el framework Angular · Conocimientos básicos de Java y el framework Spring Valorable: · UI design · SQL · Source versioning tools (pref. Git) · Agile methodologies · Microsoft PowerApps",
-        "bold": false,
+        "bold": true,
         "applications": "0",
         "subSegment": 22,
         "executive": false,

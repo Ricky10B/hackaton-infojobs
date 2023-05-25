@@ -1,0 +1,3863 @@
+{
+  "currentPage": 1,
+  "pageSize": 20,
+  "totalResults": 196,
+  "currentResults": 20,
+  "totalPages": 10,
+  "availableSortingMethods": [
+     "relevancia-desc",
+     "updated-desc"
+  ],
+  "sortBy": "relevancia-desc",
+  "sinceDate": "ANY",
+  "items": [
+     {
+        "id": "674efacc9c4b05a5c4ad50db0245dc",
+        "title": "Desarrollador Javascript (Carrera + 1 año exp. o Grado FP + 3 años exp.)",
+        "province": {
+           "id": 43,
+           "value": "Sevilla"
+        },
+        "city": "Sevilla",
+        "link": "https://www.infojobs.net/sevilla/desarrollador-javascript-carrera-1-ano-exp.-grado-fp-3-anos-exp./of-i674efacc9c4b05a5c4ad50db0245dc",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 275,
+           "value": "27.000 €"
+        },
+        "salaryMax": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-19T10:09:36.000Z",
+        "updated": "2023-05-19T10:09:36.000Z",
+        "author": {
+           "id": "66565251484951979810017006314458008415",
+           "privateId": 1461639038,
+           "name": "abde business consulting",
+           "uri": "https://abde-bc.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/0f/0f642d0a-d371-4b11-bafa-41cfc60e1e8f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0MjY0MDIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wZi8wZjY0MmQwYS1kMzcxLTRiMTEtYmFmYS00MWNmYzYwZTFlOGYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.mmzIbiLLmSd8RSkhbJsffqrlRhL9uipPgJUgZx23HZwf5USDdgNGdGYsgSnsoequhPWlQIr8x_WymTl0ODpjBGYgdr9OE0mwxfVpBBvCI4GAGMEWXs96ekKhn9O8crLie7Yy-57VHlueP_sGTqx-roXqRPw_x0cWfjqHMoMxJvmDkulOZbLRuQibEJpP9bv8qzRFNnX-SAxGzJWh6kYjUKfsPx-vrsmobiPHp70TOyw8PLXOSCsCWrpXfB4DodAluOt2I_drGSzg7ubo3hy-Vkso4Z4ijiaQFWh5f7xDBb1TETJk5WR_hjiM05EyydcCtu13Nrg4avigvxfhUamiOA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Al menos 1 año de experiencia profesional relevante teniendo la Carrera de 4 años o 3 años de experiencia teniendo Grado (FP).
+· Conocimiento profundo del inglés tanto a nivel oral como escrito (mín. B2)
+· Habilidades interpersonales, organizativas y de resolución de problemas comprobadas, y la capacidad de trabajar de forma independiente y como parte de un equipo.
+· Experiencia con herramientas y técnicas modernas de desarrollo de JavaScript
+· Experiencia con Typescript y el framework Angular
+· Conocimientos básicos de Java y el framework Spring
+
+Valorable:
+· UI design
+· SQL
+· Source versioning tools (pref. Git)
+· Agile methodologies
+· Microsoft PowerApps",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "27.000€ - 30.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "d2b819938548ec92fbe7c347e8f0c6",
+        "title": "Desarrollador@ FrontEnd JavaScript (TELETRABAJO)",
+        "province": {
+           "id": 41,
+           "value": "Salamanca"
+        },
+        "city": "Salamanca",
+        "link": "https://www.infojobs.net/salamanca/desarrollador-frontend-javascript-teletrabajo/of-id2b819938548ec92fbe7c347e8f0c6",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-23T08:49:20.000Z",
+        "updated": "2023-05-23T08:49:20.000Z",
+        "author": {
+           "id": "968749524526202550903215154841",
+           "privateId": 48419304,
+           "name": "METRICA CONSULTING",
+           "uri": "https://metrica.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/ed/ed9acdb5-9766-4215-9d0f-0d8b2b3c20ac?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2Njc1NDc1NjMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9lZC9lZDlhY2RiNS05NzY2LTQyMTUtOWQwZi0wZDhiMmIzYzIwYWMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.h848BVZbG8xUJQrVpeHoCocRI8Wt-TOifyDo51ocVbS9f9UAdW633hN4PwdmET6sZRVG_Eodc8qjw9kg5Bthl2sJRmwtLHwARYGhE1mUrxfr3IAHpDWt250js5vU1vg-6L8pWKJVmxHyh80dz3C5Gmrhzex_PIkgHHi-NWBMqQigxVOxEDjEEAAwQYwCgprS4rTAwOytF4unka9XWRSQEFjPpcn4BYeFfO2xX3vRh005mwpCKKDJB5VST5knf-Fu1j2L0c0pz95OhYabkk83Sj0NO9jolWwBtb00J63ZtGyMOzp5SBpcb5gayhwGtSfPjb52k63BklN1Y62raAB2rA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "6111a40e884cc3a0150bc3fec5efc3",
+        "title": "Desarrollador/a Full Stack (Nodejs/ Javascript)",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-full-stack-nodejs-javascript/of-i6111a40e884cc3a0150bc3fec5efc3",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 10,
+           "value": "Sin estudios"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-23T15:34:42.000Z",
+        "updated": "2023-05-23T15:34:42.000Z",
+        "author": {
+           "id": "98565648505348657686692018216272602945",
+           "privateId": 32902595230,
+           "name": "ALVEA SOLUCIONES TECNOLOGICAS, S.L.",
+           "uri": "https://www.infojobs.net/alvea-soluciones-tecnologicas-s.l./em-i98565648505348657686692018216272602945",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/cb/cb6c8491-2635-4ed5-bd03-95139739e852?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzIyMDQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9jYi9jYjZjODQ5MS0yNjM1LTRlZDUtYmQwMy05NTEzOTczOWU4NTIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.nOLifKIGP4-Jipo3Wdkb42u_-Sp0PMoJfiLRdBBVvDHo5kl1aAkuwsCzjfF7eY_MHR8wc8HMChu9YmHmC0cL8ldKwX_bPnbT8v26ed2k2Wiw4_E9QSOzfMS1qI94WzMKGutIrbV50MJK_2v3iWRNqK5yQ9OidbBDTgaP9IzI43z28DQoRMb0OHJ-rf1sidTyunOKapbA-AEiSKCaWxo87yXSDJ1A62AIfPBFqholiRdkJ4n5CcM9GqTjHlFFEHrAOEySG7PS69Hve-fZ1lHpNSxG_qbYb_6UASSU3nV-l-kxACzzBybDvRcHKWKNesFyvQzmDlvV6iuDsEaITFWgwg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "d8be2b8b0141a48d0dd89eb65e3845",
+        "title": "Desarrollador Javascript",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Sant Boi de Llobregat",
+        "link": "https://www.infojobs.net/sant-boi-de-llobregat/desarrollador-javascript/of-id8be2b8b0141a48d0dd89eb65e3845",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-23T07:42:21.000Z",
+        "updated": "2023-05-23T07:42:21.000Z",
+        "author": {
+           "id": "969157524526202350323214951121",
+           "privateId": 107602025,
+           "name": "NOVABASE – NEOTALENT ESPAÑA.",
+           "uri": "https://novabase.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/13/13ee552b-59fd-4c84-bddf-e866708d6d07?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NDUxODE5NzUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xMy8xM2VlNTUyYi01OWZkLTRjODQtYmRkZi1lODY2NzA4ZDZkMDciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.hne2LNobQP2nqM1H-bASWjcOYmMb3wxDYCzH63icHynPn2BGC2Th9lSSOvkbB9jPvwHjiwnGObpQIEi4h244e4Rv2N_L6EZIG5-1CLQmLK-GX8nzvLPxMXaVqXC9gKhGZHiOH6DAfOidJsEDUSzslzHX59fzL9AIFnrVk7IiJhhWH29z7ipAn0AcSe7xUXGlmivnz7rZAKCITMupa7uqaxKdFkmwMIqSOCZEad2iwUhJqV8OJxHVRyjZd4qKWQ3q8TecerTzHgmf3DpanlO5RptdsG-p5IrB4SdvWy2Ms8r_GNe91OMBHEG10BYmAwCqY7sbVeSRKv8_Ssy-3Zepxw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "063775bbf149e68d905dcbfb983a15",
+        "title": "Desarrollador Fullstack JavaScript",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Tres Cantos",
+        "link": "https://www.infojobs.net/tres-cantos/desarrollador-fullstack-javascript/of-i063775bbf149e68d905dcbfb983a15",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 30,
+           "value": "Formación Profesional Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-22T14:59:32.000Z",
+        "updated": "2023-05-22T14:59:32.000Z",
+        "author": {
+           "id": "969157524526202350323214951121",
+           "privateId": 107602025,
+           "name": "NOVABASE – NEOTALENT ESPAÑA.",
+           "uri": "https://novabase.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/13/13ee552b-59fd-4c84-bddf-e866708d6d07?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NDUxODE5NzUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xMy8xM2VlNTUyYi01OWZkLTRjODQtYmRkZi1lODY2NzA4ZDZkMDciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.hne2LNobQP2nqM1H-bASWjcOYmMb3wxDYCzH63icHynPn2BGC2Th9lSSOvkbB9jPvwHjiwnGObpQIEi4h244e4Rv2N_L6EZIG5-1CLQmLK-GX8nzvLPxMXaVqXC9gKhGZHiOH6DAfOidJsEDUSzslzHX59fzL9AIFnrVk7IiJhhWH29z7ipAn0AcSe7xUXGlmivnz7rZAKCITMupa7uqaxKdFkmwMIqSOCZEad2iwUhJqV8OJxHVRyjZd4qKWQ3q8TecerTzHgmf3DpanlO5RptdsG-p5IrB4SdvWy2Ms8r_GNe91OMBHEG10BYmAwCqY7sbVeSRKv8_Ssy-3Zepxw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Buscamos candidatos con al menos 3 años de experiencia en:
+Java
+JavaScript
+Docker / Kuberntes
+MongoDB",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "83a05fb1604c0c900eb514dd28f6e5",
+        "title": "Beca Desarrollador Web - Full Stack Web Developer (JavaScript, Angular, Laravel, WordPress, Prestashop, PHP, Mysql, Scrum Manager) en LAS PALMAS INCORPORACIÓN INMEDIATA",
+        "province": {
+           "id": 20,
+           "value": "Las Palmas"
+        },
+        "city": "Las Palmas de Gran Canaria",
+        "link": "https://www.infojobs.net/las-palmas-de-gran-canaria/beca-desarrollador-web-full-stack-web-developer-javascript-angular-laravel-wordpress-prestashop-php-mysql-scrum-manager-las-palmas-incorporacion-inmediata/of-i83a05fb1604c0c900eb514dd28f6e5",
+        "category": {
+           "id": 50,
+           "value": "Diseño y artes gráficas"
+        },
+        "contractType": {
+           "id": 3,
+           "value": "Formativo"
+        },
+        "subcategory": {
+           "id": 3030,
+           "value": "Diseño web"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 1,
+           "value": "No Requerida"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-22T09:03:09.000Z",
+        "updated": "2023-05-22T09:03:09.000Z",
+        "author": {
+           "id": "66534857485156786984841006294990919044",
+           "privateId": 1716402144,
+           "name": "NETT Digital School",
+           "uri": "https://nettformacion.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/bc/bcc5059d-5b66-4fa1-b624-03929a599376?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MDAwNjcwMTUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iYy9iY2M1MDU5ZC01YjY2LTRmYTEtYjYyNC0wMzkyOWE1OTkzNzYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.J8DRTfi-DIENVJKSykludWK6uz8hgPrM1d1KaJ3zGvdy4oUWbG0Jxem1gMg0syxE5qZKmaZqo_fkV8_UeoTEejOW5iutgXUJeyZuq6QO2kUqRqZ-3FVrpY8OsigNql8RFlpCVPB63qEBU96t7E9j3LgoKEaXIWe-tEENYS2B2udLVe0WUukKzfJZaDN9oEKCErnj1p47pH_lYzfIm8gU3rGhobAQHHEj3Uk-meP-o402Iloax3V9Xs-69BJONwn-cK7c-vKmRkiL7C0NcLbFEg702U86UbswDZW5ZYpX-knPs6JXQqGqUcIGkzKjtp8JmbO55YLu4nKzHWGWX4PRzQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Obligatorio utilizar lenguajes de cliente como HTML y CSS.
+
+Muy valorable: WordPress o PrestaShop,
+
+Valorable: Programar JavaScript y frameworks importantes como Angular y/o Vue.js, controlar las versiones en el desarrollo de software utilizando GitHub, utilizar Servidores web, herramientas relacionadas y programar del lado del servidor con PHP, bases de datos MySQL y el framework Laravel y/o Symfony, así como visibilizar tu proyectos utilizando SEO Técnico, enfocarlos con técnicas de usabilidad web y UX y gestionarlos mediante Scrum Manager.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 21,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "8b1013f2f94062bdee7d21969fc9f8",
+        "title": "Desarrollador/a Front (Javascript)",
+        "province": {
+           "id": 51,
+           "value": "Vizcaya/Bizkaia"
+        },
+        "city": "Bilbao",
+        "link": "https://www.infojobs.net/bilbao/desarrollador-front-javascript/of-i8b1013f2f94062bdee7d21969fc9f8",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-19T09:09:08.000Z",
+        "updated": "2023-05-19T09:09:08.000Z",
+        "author": {
+           "id": "963556524526202150543215254758",
+           "privateId": 48419592,
+           "name": "INETUM Norte",
+           "uri": "https://inetum.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/88/887a15cf-786f-4228-ad56-997cfa1c9425?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NDE4MTU3OTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84OC84ODdhMTVjZi03ODZmLTQyMjgtYWQ1Ni05OTdjZmExYzk0MjUiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.W5KQtNDC4wUUlwf0i2e9iodxkC755afOsdDjkmfZ_J0Wcrt7CyXmQ2ceHkKmoBzM4DVUCQFh1Jy9cjLBpv0qB0Mx4-6KvfiViyWVG94K39SnRiXmIBPvtKRiQ_uW3g7utAIWROfk0V70dDeOJypxmximNn8C22wohIKjaWxC2ocpGQKhV5j9EMAE5nk5BmQlaTh_3yZRUGg6ljPKgsR6Xef8OVsM6CfTpfl8oBt9-cVlsVGLldoTrkwARLze7AElzsUQaGrtTxTBjNav-WosExahU2R_mchrzjgHjvT1XY2fr4Ps7plFcIv8l0m5CBMuFazS4TtDAf-0E8z6jJbtVw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Formación en entorno técnico
+- Conocimientos en Programación Front-End
+- Conocimientos en Programación con Javascript
+- Experiencia previa en proyectos de Desarrollo Front End
+- Proactividad
+- Trabajo en equipo
+- Nivel medio de inglés",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "dbfb1305854fefb3d23ed90aa66fe3",
+        "title": "Desarrollador/a .Net,Html5 y Javascript",
+        "province": {
+           "id": 51,
+           "value": "Vizcaya/Bizkaia"
+        },
+        "city": "Bilbao",
+        "link": "https://www.infojobs.net/bilbao/desarrollador-.net-html5-javascript/of-idbfb1305854fefb3d23ed90aa66fe3",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 1300,
+           "value": "20.000 €"
+        },
+        "salaryMax": {
+           "id": 1310,
+           "value": "22.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 10,
+           "value": "Indiferente"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-04-26T11:30:14.000Z",
+        "updated": "2023-05-17T13:00:02.000Z",
+        "author": {
+           "id": "926148524528009390663925053962",
+           "privateId": 204348994,
+           "name": "CONSULPYME",
+           "uri": "https://www.infojobs.net/consulpyme/em-i926148524528009390663925053962",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/0a/0ac9aee0-c53a-4dc9-a5be-f77d06e5dca7?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MzUxNTkwOTgsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wYS8wYWM5YWVlMC1jNTNhLTRkYzktYTViZS1mNzdkMDZlNWRjYTciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.CyKYaKWe2PfkTND1YGIDuM-HgOADaIiARXNT0zNUbSjZJfQHv7ARCJFBruAX6qpHhF4_7-drJcYLA33OT2eqbHLiUtQ3cshLn5QIBi_6Zr3ZSzZlcvDt_U-RfdLyBVlvBkw6OKoVWNjJJ87e1Rfk4tyAWzGotcbu6ItboRBy-ltuVKSC9B8OpovkepvyOEl5RWsj6kDQAZCcy4bKI6Y2CYtaU4Sqv4IsKV59v5nrRmqjpHCIJJEA34bqSSfNCThgBK346PbLyUEgTbDKXLRGWoLMCt5PeKSHai0z_GgwwSXFbOp9dWiE5_R2QqqmfTUf3rL43pN-zh796VO0fRnD2g&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "20.000€ - 22.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "137be1a21c44c4833a69ae3ad2aa64",
+        "title": "Desarrollador Frontend (Javascript nativo)",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-frontend-javascript-nativo/of-i137be1a21c44c4833a69ae3ad2aa64",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 990,
+           "value": "45.000 €"
+        },
+        "salaryMax": {
+           "id": 440,
+           "value": "50.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 5,
+           "value": "Más de 5 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 125,
+           "value": "Grado"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-03T08:10:20.000Z",
+        "updated": "2023-05-03T08:10:20.000Z",
+        "author": {
+           "id": "66565254564054758269764007124889105572",
+           "privateId": 2063893948,
+           "name": "KRELL CONSULTING & TRAINING",
+           "uri": "https://www.infojobs.net/krell-consulting-training/em-i66565254564054758269764007124889105572",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/04/04b4064f-9021-4532-880e-3cc511184862?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzkyNTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wNC8wNGI0MDY0Zi05MDIxLTQ1MzItODgwZS0zY2M1MTExODQ4NjIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.PEaV7dec8hCxAHMqdopXtjkYItlD8KpSOvYxzmZ6yMHCcHOnjt9Q-PU-C2bpm9F8S8EGK-f0RucMPXsskmUsFK8dMT-90r5Q0Z_3RDvSe_XPdsRdlbwI52lkHNmQaSb_1l2N7ADwHOObDJX5EpTCB4dEoSKq-qr89FgndoVy0xlXGfGUniIkKTTjuXNvVwVn_mA3BmwGysRitjEOudtYLxPvNHEjfwfBIn4GGJPfGkLlCVd3cmQL74UxlSvpaQvhSYTDgRirpnA6zTcsHLYKqnzdTp50OKUeATUoNkEduMq9OEbRtEhZmcUHzzITW_YuZcwQCootcX-bhQjiAHhuVQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 32,
+        "executive": false,
+        "salaryDescription": "45.000€ - 50.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "e3fae3826647bc8750340b6804e309",
+        "title": "Lead Javascript developer - React",
+        "province": {
+           "id": 51,
+           "value": "Vizcaya/Bizkaia"
+        },
+        "city": "Getxo",
+        "link": "https://www.infojobs.net/getxo/lead-javascript-developer-react/of-ie3fae3826647bc8750340b6804e309",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 990,
+           "value": "45.000 €"
+        },
+        "salaryMax": {
+           "id": 500,
+           "value": "66.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 5,
+           "value": "Más de 5 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-13T14:29:30.000Z",
+        "updated": "2023-05-13T14:29:30.000Z",
+        "author": {
+           "id": "98575355535654798069782019146294909173",
+           "privateId": 35132613952,
+           "name": "Open coast S.L.",
+           "uri": "https://www.infojobs.net/open-coast-s.l./em-i98575355535654798069782019146294909173",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/89/8986ea5b-d15d-49ae-a920-d354b4174768?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTAxNjM2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84OS84OTg2ZWE1Yi1kMTVkLTQ5YWUtYTkyMC1kMzU0YjQxNzQ3NjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.B7wgGDc3tcfiFhg5nQG4Zq1MdvEz7bQ0-7wo8wjfoi0qXQnfxmg-duByFVsb_wrwVsYo1BjDmooQ7DJNrXrRHIdOs5MJDQgX75jzKBEdzRd0w_PQCYKkwMSDrt6cxcPxnYBKqAroNw5imb10Vj0umHnSjR4isLA_fyCjrxkCZx-UoVi8SY45_1A-vel6jz5_3MdCqANjty40WK-DzeO1K0KZRPz3w8Nmy9rIodC-ytdKe76ihwH8V9fe8E-L65lsn-VehtzljGlddf1UFnE4yj_QoxYcN7nobM99sa23zp1zf_FUAnvmGLhKQU3rsgrl39U4s0wcOiwlO5VZeBeemA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "REQUISITOS (OBLIGATORIOS) :
+
+* Mínimo 5 años de experiencia en desarrollo Javascript, 2 años mínimo con React.js con proyectos comerciales
+* Experiencia avanzada y comprobada al nível comercial con React.js y librerías asociadas (Redux, NextJS, Webpack, etc.)
+* Experiencia con soluciones de Text (Jest, Cypress, etc.)
+* Experiencia con otros frameworks MVC
+* Experiencia con Git
+* Expderiencia con API RESTful
+* Buen nivel de Inglés
+* Mentalidad ``get things done`` y ganas de crear y llevar productos nuevos al mercado
+
+REQUISITOS (FACULTATIVOS) :
+
+* Experiencia con Typescript
+* Experiencia con React Native
+* Experiencia con migración de código
+
+
+SOFT SKILLS :
+
+* Espiritu de equipo
+* Autónomidad para toma de decisión
+* Proactivo y actitud ``can do``
+* Grandes habilidades interpersonales y de comunicación
+* Pensamiento crítico y capacidad de resolución de problemas",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 32,
+        "executive": false,
+        "salaryDescription": "45.000€ - 66.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "c07bc2f2c841a3ba1ba008223bc8b3",
+        "title": "Frontend Developer React y Javascript (H/M/X)",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/frontend-developer-react-javascript-h-m-x/of-ic07bc2f2c841a3ba1ba008223bc8b3",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 30,
+           "value": "Formación Profesional Grado Medio"
+        },
+        "published": "2023-05-23T16:58:45.000Z",
+        "updated": "2023-05-23T16:58:45.000Z",
+        "author": {
+           "id": "3bd816397c43289b7287fa3b7886cf",
+           "privateId": 32152309354,
+           "name": "Experis IT",
+           "uri": "https://experis.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/7a/7a4d17a9-a354-4024-aae6-e2b20324ac76?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDgwNzEwNjEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy83YS83YTRkMTdhOS1hMzU0LTQwMjQtYWFlNi1lMmIyMDMyNGFjNzYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.Z-zHURM7zoE7eNtIKRB1agG-QTIuATCUtswqD6pLQ_glpWqLMe4kkvnxVUSTr0ClODK5Pye0BGZtgM9CUExu60rNLzaMpM1GAk9bU-Eiy-rYeOuETFM8czNBvXW5vuhrzxAhPnL3qLLmYFrifE2WTn64dwOgnY4NNvOc-0qqSodz6TZyIOwx-9aWrb-nynP3Q-px638zMHCuhI_3hwaR_7QS59iTqGBkmC7wKFCmhQ0DqbYqD1K5gS-EtDbPL9h8MMPhPp9py_9EGZWJ16-_iYUligaVOtlNcGp2NU2IDCN7pjki20v84QqEF2A-twRgSm4BhoGX6ZCQk4CjNyJZ8A&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Más de 0€",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "fb8cb941ef44f1a1c43010ab0cf00e",
+        "title": "Full Stack Developer - Java & JavaScript",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/full-stack-developer-java-javascript/of-ifb8cb941ef44f1a1c43010ab0cf00e",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-23T11:38:49.000Z",
+        "updated": "2023-05-23T11:38:49.000Z",
+        "author": {
+           "id": "98565356525551768567659014055281008495",
+           "privateId": 22135401014,
+           "name": "Luca TIC",
+           "uri": "https://luca-tic.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/f6/f6b9dd93-5f41-44c1-b638-b7b7022a033c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTcyMjkxMjQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9mNi9mNmI5ZGQ5My01ZjQxLTQ0YzEtYjYzOC1iN2I3MDIyYTAzM2MiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.bDOaZJ8jVm_LtAQPmwc6l0VIk3ZbTCsekXB2I7W_uAH_0u2ifzUnYsSwD-NZVnlh1NJKqBvLvg6iLs3C5agrmJIsOlGWZDTxC0YhVp4NojXD5vJlhYLv64WQOvGiK71bKycmOLXb2B1X1rovpkW5ghjruACBMijjyWZYOlGDQ-KZhmmTuElmzL-ALrqIFRCdA5CnL9lyuYhy6BIcyRlvkMUT9XfpFRIlgJEDCk7UI0whnkwoylHeqvX1YOx84pVfiDA58WSZycQ-nhyYA_UcxjZq9_7idxbDrXKnEuUmWenUot9COaC9w0DESCyJC0EpScdQcdpPpbEMpY0wZ4AwKw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Experiencia en desarrollos con versiones recientes de Java y con el framework de Spring 
+
+Experiencia trabajando con Thymeleaf
+
+Experiencia desarrollando con JavaScript, HTML, CSS y uso de librerías jQuery y BootStrap.
+
+Disponibilidad para asistir a oficinas del cliente en zona céntrica de Madrid.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "314f0d26fb4942acb3cf39444f59a3",
+        "title": "Javascript, node y vue developer",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/javascript-node-vue-developer/of-i314f0d26fb4942acb3cf39444f59a3",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-19T12:34:47.000Z",
+        "updated": "2023-05-19T12:34:47.000Z",
+        "author": {
+           "id": "875948524527205171823025141530",
+           "privateId": 175912149,
+           "name": "Quental Technologies",
+           "uri": "https://quental-techonolgies.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/d8/d894e72a-9fd4-4179-aee7-cab1048ed48f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTQ5MTAsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9kOC9kODk0ZTcyYS05ZmQ0LTQxNzktYWVlNy1jYWIxMDQ4ZWQ0OGYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.ivJsJU6XBL9vxJnKrwhs3i3INGncVEU05orbkKrXDA5EdFQ4SJCXn036VmBaOmC-1zKHD0F77Avwmzlmnf5uQl6qJB0Qeel_gxKvk4ZfINk18KdwXwj_g6SxsQz5ehGOLRYoEwFZZzNN2yPtZI78jDnzxPOjGN7SPS-0RgTeXuJ5n8yOnwqEt6TrrqAZQswAOTi6yUPRccB_Vp3Kh5bIzWQJK6OCR6vzIHQPfnW_Xrw3Lg-tMNk4CbOLmlCNJKz4F_RvUNjTqAaIwW-ERAfQUk_SibY_Uu86K9idOLU-LxjR4RgV931daw0YbZxMvtD1ntSZioJW8ANI1BP2DcvHmA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Fundamental al menos 2 años con Vue, Javascript y Node
+Scripting en Python, Groovy, Shell scripting, PowerShell.
+Testing para los lenguajes anteriores.
+Desarrollo de microservicios. Dockerización.
+Patrones de diseño.
+Inyecciones de dependencias.
+Conocimiento avanzado en bases de datos: relacionales y no relacionales y basadas en grafos, monolíticas y distribuidas.
+Conocimiento avanzado en Git, Gitflow and Bitbucket/GitHub/GitLab.
+Conocimiento en desarrollo de REST API e integración de terceros.
+Programación en entornos Windows.
+Capacidades básicas de administración de sistemas.
+Nivel mínimo de inglés B1",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "13fd7aadf241dfa4f73faf45c45ac9",
+        "title": "Desarrollador senior y junior de frontend",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-senior-junior-frontend/of-i13fd7aadf241dfa4f73faf45c45ac9",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 5,
+           "value": "Otros contratos"
+        },
+        "subcategory": {
+           "id": 3107,
+           "value": "Arquitectura"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-23T14:39:33.000Z",
+        "updated": "2023-05-23T14:39:33.000Z",
+        "author": {
+           "id": "963449524526202350703215150097",
+           "privateId": 48864961,
+           "name": "TEMPS ETT S.L.",
+           "uri": "https://temps.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/b4/b4eb2bcc-587a-4cb7-9f31-3b3e552e9adb?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MDE5OTUzMzQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iNC9iNGViMmJjYy01ODdhLTRjYjctOWYzMS0zYjNlNTUyZTlhZGIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.IabsvR5FaRIFoMCMxa9mP1JNRHwN4SK0M7CjcMkIztIgGWQ3JmrVsLq12MJVV3pvxe7_8E-Sw4zgYtTIZ2ZvAwWSImzBlO0pCluUJFsmbL0P5NWZxiF9eo4R7B920p4t2q6-JxrbVlv7TqcY34muOta4-1inr-DG6JjA5lgRxan1FdqyYwd6Ddg6dGnhGkVW1MZIGPmnOWjdVfLjXmpe-qZdjXa3s_2mnlaflQEiR_2wKfgpJ197Beh8u_VjDKW_4H16BJgnUCbbwX5zUJtprup2JTADgKjzkSmoAZy9joOxVzx1hWm_6xCFhIZQqTbX7aCbgJWJl9demcQ2zDD_8A&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Debe estar familiarizado con estas herramientas:
+
+- Plataformas de control de versiones como GitHub y/o GitLab
+
+- Herramientas de línea de comandos como Git, npm, gulp, SSH
+
+- Herramientas de colaboración como Teams (Microsoft 365)
+
+- Esto debería salir de tu trabajo al final:
+
+Sólidos diseños e interacciones receptivos:
+
+- Funcionalidad bien probada y que resuelve las necesidades del cliente
+
+- Un enfoque de implementación que se puede mantener y actualizar fácilmente
+
+- Código limpio y que pueda ser entendido y ampliado por otros
+
+- Estimaciones de tiempo que sean realistas.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "11db1c8d164d1d83bedeef335ab1cf",
+        "title": "Desarrollador Frontend Junior | Híbrido",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/desarrollador-frontend-junior-hibrido/of-i11db1c8d164d1d83bedeef335ab1cf",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 125,
+           "value": "Grado"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-23T15:27:37.000Z",
+        "updated": "2023-05-23T15:27:37.000Z",
+        "author": {
+           "id": "f8f29b4b1c404f96a2da79b949fe6a",
+           "privateId": 31259821352,
+           "name": "ALTEN",
+           "uri": "https://alten.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/12/12bddf65-deb1-4ed4-a344-4879c768f52c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NzQxNjI5MDksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xMi8xMmJkZGY2NS1kZWIxLTRlZDQtYTM0NC00ODc5Yzc2OGY1MmMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.FgQhSVWf-1Y8y3GXZNAvkbQX4a_PN_9uc0NUGKS3d764qqJCZF1AXd-KsgFo9NfiL0GbVTGBrNbYnzsRzDMMl0Hkg8wH1JeevolUZCOSa1WfTCKJREs7mCD_x1monRGyjqo4NebU97fdzvjoSRBT4RFQymGLKmEcMjEns6ve2TTkjAW5Ty4fwrhI_UMMju3_az5FCwoefvYmvmulAFbxUUTHt4ljeEA25phYftIfC_OW8WK8kjvrBxARoiDmmMas_puwSDXPFyl6Q_aZHygOgKTDR6HbToMLeANfBvxbaeG-LqRZyY_qhLacmGdG7aymJo6LcPsEwHKvuJNS7D1FeA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Recien graduado o con algo de experiencia o más como desarrollador Frontend que haya trabajado con React y JavaScript.
+-  Valorable conocimientos en Next.JS, Cypress y Testing funcional. 
+- Residencia en Barcelona.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "aa2163ddd046feb5799397a18ae5f9",
+        "title": "Desarrollador .NET - Híbrido Las Rozas",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Las Rozas de Madrid",
+        "link": "https://www.infojobs.net/las-rozas-de-madrid/desarrollador-.net-hibrido-las-rozas/of-iaa2163ddd046feb5799397a18ae5f9",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-23T13:35:03.000Z",
+        "updated": "2023-05-23T13:35:03.000Z",
+        "author": {
+           "id": "968354524526202750503215155078",
+           "privateId": 48486758,
+           "name": "NCS Spain",
+           "uri": "https://ncs.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/b4/b4a55822-42e1-4382-9dca-66ef219c40ac?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTczMDk2NDUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iNC9iNGE1NTgyMi00MmUxLTQzODItOWRjYS02NmVmMjE5YzQwYWMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.eoOAd6zXhFJNadnP0lo_u0R9Q-SD74tw7Lg7SCFNvfuSAh2nlzCDXuc-SQCznGyonWETR5EIobal62tRePGzJafVkgdrF5BIDdbEJg2tMP1QxPaciXOQbi0_n2bslVvnxdET775dbAn3zC7hmTg4roBxGtIm86kUGXDwLXiEhWfaiIMl0SZykuOzt3LiD2zXQVWMghXw13E_a8a-kzAo57tL0B_ETswO83FvVQRz-EpzwZvE2_r178KnIN3FRkYVP6BaGzKkSlds12BvvcbfH9zZtS-BcNZeWK8zQt2qbVdq0SL2P-BepR1gKk0kf8VjSM2QL1OfNj7VQHEZED5yLQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "DESARROLLADOR con al menos 3 años de experiencia en desarrollo de aplicaciones .net framework, .net core, Angular, MVC, Razor, Javascript, Boostrap, SQL server, principios SOLID y TDD.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "b4b1e6d6954e29858bbfe56c8a2549",
+        "title": "Desarrollador fullstack",
+        "province": {
+           "id": 17,
+           "value": "Córdoba"
+        },
+        "city": "Córdoba",
+        "link": "https://www.infojobs.net/cordoba/desarrollador-fullstack/of-ib4b1e6d6954e29858bbfe56c8a2549",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 270,
+           "value": "24.000 €"
+        },
+        "salaryMax": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-04-04T12:14:23.000Z",
+        "updated": "2023-05-23T15:30:02.000Z",
+        "author": {
+           "id": "db4a6d15-7b7f-4bd3-8b5e-9252984c7aa6",
+           "privateId": 47675957620,
+           "name": "Empresa del sector asegurador",
+           "uri": "https://www.infojobs.net/empresa-del-sector-asegurador/em-idb4a6d15-7b7f-4bd3-8b5e-9252984c7aa6",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "FP/Grado Superior/Ing. Informática 
+Experiencia demostrable en PHP y bases de datos. (SQL)
+Conocimientos de maquetación web. (HTML5, CSS, JavaScript, Bootstrap)
+Uso de algún framework de desarrollo. (Codeigniter, CakePHP, Laravel, Symfony..)
+Inglés nivel intermedio
+Proactivo/a. Autodidacta.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "24.000€ - 30.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "8141990c7545edbc9647a99923494f",
+        "title": "Desarrollador Front-End (ReactJS)",
+        "province": {
+           "id": 34,
+           "value": "Málaga"
+        },
+        "city": "Málaga",
+        "link": "https://www.infojobs.net/malaga/desarrollador-front-end-reactjs/of-i8141990c7545edbc9647a99923494f",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "published": "2023-05-02T11:09:52.000Z",
+        "updated": "2023-05-23T12:30:02.000Z",
+        "author": {
+           "id": "98575154494554701171164018255553800815",
+           "privateId": 33316404196,
+           "name": "Future Connections España",
+           "uri": "https://www.infojobs.net/future-connections-espana/em-i98575154494554701171164018255553800815",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/29/29f5f967-8eb4-4a26-9983-a6a771236117?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDc2Mzc1NzQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8yOS8yOWY1Zjk2Ny04ZWI0LTRhMjYtOTk4My1hNmE3NzEyMzYxMTciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.K_E5hgwMH7cwN0t-XZDNfjrx2_R-rsImpjhpgMW9F-ciiJpxvYrRRVaN9C7NbDFxv8M1wmn23axl_iLMnxL7QyHaxzMwrk1kVP0rh1jRMg11jjDOHM2AhLDk0brCI2TR9F8RGvvTvfulpMuHad7MyhsjXhLBzTak3Ch2JX2UMs18qLuUgFiM9tS_tJizMlSnJiKdSLoB3GydPGvnWFDvk5u-ji8UPZY56X6z5X1Nf0Vq5xcpY77LL1jLYPE2AoXwrD_k-mxNNoI81oA25m4wyADfNuP_Xe7kXobcdsPtrXJYsPmEoMj1xkuF9q-5BXvRid8bsMyEUfZMtRKs_ea8Ig&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "b8258c9a28408dbfb3516f5cbed5de",
+        "title": "Desarrollador  senior Front con  Angular -- Remoto 100%",
+        "province": {
+           "id": 28,
+           "value": "A Coruña"
+        },
+        "city": "A Coruña",
+        "link": "https://www.infojobs.net/a-coruna/desarrollador-senior-front-con-angular-remoto-100/of-ib8258c9a28408dbfb3516f5cbed5de",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 285,
+           "value": "33.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 4,
+           "value": "Al menos 4 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-23T16:52:17.000Z",
+        "updated": "2023-05-23T16:52:17.000Z",
+        "author": {
+           "id": "968749524526202550903215154841",
+           "privateId": 48419304,
+           "name": "METRICA CONSULTING",
+           "uri": "https://metrica.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/ed/ed9acdb5-9766-4215-9d0f-0d8b2b3c20ac?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2Njc1NDc1NjMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9lZC9lZDlhY2RiNS05NzY2LTQyMTUtOWQwZi0wZDhiMmIzYzIwYWMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.h848BVZbG8xUJQrVpeHoCocRI8Wt-TOifyDo51ocVbS9f9UAdW633hN4PwdmET6sZRVG_Eodc8qjw9kg5Bthl2sJRmwtLHwARYGhE1mUrxfr3IAHpDWt250js5vU1vg-6L8pWKJVmxHyh80dz3C5Gmrhzex_PIkgHHi-NWBMqQigxVOxEDjEEAAwQYwCgprS4rTAwOytF4unka9XWRSQEFjPpcn4BYeFfO2xX3vRh005mwpCKKDJB5VST5knf-Fu1j2L0c0pz95OhYabkk83Sj0NO9jolWwBtb00J63ZtGyMOzp5SBpcb5gayhwGtSfPjb52k63BklN1Y62raAB2rA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Desarrollador Front  con Angular con 4 años de experiencia",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "33.000€ - 36.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "fdbe38ed604b13bb07ab59b631a348",
+        "title": "Desarrollador/a DevOps",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-devops/of-ifdbe38ed604b13bb07ab59b631a348",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-23T13:33:15.000Z",
+        "updated": "2023-05-23T13:33:15.000Z",
+        "author": {
+           "id": "9b37c0dbf84572afbd6ab8a3e49678",
+           "privateId": 37710207654,
+           "name": "ENTELGY - Zona Madrid",
+           "uri": "https://entelgy.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/1a/1ab7dccc-0ff8-469a-8786-5cc67b2dfc51?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MTgyMzEwMTcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xYS8xYWI3ZGNjYy0wZmY4LTQ2OWEtODc4Ni01Y2M2N2IyZGZjNTEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.fMGYGc2FbFEygi14uebqXsu8TXL3r8JEG8m02Cjf6Jm9PBHenZc5bEdTuAL7pIfo3W3rA2SnuEyqo7cqOkzhw732-7K7G6Ao1CRSTozhz8oemIwU1CW9yUt9DUYyO71ZGNYzCI8aN9ds0vvb55ktd5LElJ8AAroR6ZBrXMP5VACTXLVyKmoBEyPuRw2CUxD_kgPKQMilTeAUoWsjpGuc8JN_9fXmzlosvlS1m-BEWPMmdmWqQQ_YOFwyc9nXG4VZqAHvkRDLzCdJyo9Em7wuWstj9SKrCq8XnY_418NCY8ZFOtHlXHjbFOziUEAeNc3ZeDUtsKINAd_azuMkEv-GXw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Al menos 2-3 años de experiencia trabajando con Jenkins, Kubernetes, Docker, SVN o Git, jQuery, Maven, Tomcat, CI/CD, JavaScript.
+- Muy valorable experiencia en Azure.
+- Disponibilidad para trabajar 2-3 días a la semana presencial (cerca de Atocha).
+- Nivel de inglés: B1/B2 (valorable)",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     }
+  ],
+  "dataLayer": {
+     "search_terms": "desarrollador-javascript",
+     "offer_search_page": "1",
+     "offer_search_page_limit": "20",
+     "region_level2_id": "0"
+  },
+  "facets": [
+     {
+        "key": "province",
+        "name": "Provincia",
+        "values": [
+           {
+              "key": "madrid",
+              "value": "Madrid",
+              "count": 93
+           },
+           {
+              "key": "barcelona",
+              "value": "Barcelona",
+              "count": 22
+           },
+           {
+              "key": "vizcaya-bizkaia",
+              "value": "Vizcaya/Bizkaia",
+              "count": 19
+           },
+           {
+              "key": "valencia-valencia",
+              "value": "Valencia/Val??ncia",
+              "count": 17
+           },
+           {
+              "key": "sevilla",
+              "value": "Sevilla",
+              "count": 15
+           },
+           {
+              "key": "malaga",
+              "value": "Málaga",
+              "count": 12
+           },
+           {
+              "key": "asturias",
+              "value": "Asturias",
+              "count": 11
+           },
+           {
+              "key": "alicante-alacant",
+              "value": "Alicante/Alacant",
+              "count": 10
+           },
+           {
+              "key": "a-coruna",
+              "value": "A Coruña",
+              "count": 8
+           },
+           {
+              "key": "salamanca",
+              "value": "Salamanca",
+              "count": 8
+           },
+           {
+              "key": "zaragoza",
+              "value": "Zaragoza",
+              "count": 8
+           },
+           {
+              "key": "cordoba",
+              "value": "Córdoba",
+              "count": 7
+           },
+           {
+              "key": "girona",
+              "value": "Girona",
+              "count": 7
+           },
+           {
+              "key": "las-palmas",
+              "value": "Las Palmas",
+              "count": 7
+           },
+           {
+              "key": "granada",
+              "value": "Granada",
+              "count": 7
+           },
+           {
+              "key": "albacete",
+              "value": "Albacete",
+              "count": 7
+           },
+           {
+              "key": "pontevedra",
+              "value": "Pontevedra",
+              "count": 7
+           },
+           {
+              "key": "valladolid",
+              "value": "Valladolid",
+              "count": 7
+           },
+           {
+              "key": "castellon-castello",
+              "value": "Castellón/Castelló",
+              "count": 6
+           },
+           {
+              "key": "ciudad-real",
+              "value": "Ciudad Real",
+              "count": 6
+           },
+           {
+              "key": "cuenca",
+              "value": "Cuenca",
+              "count": 6
+           },
+           {
+              "key": "guipuzcoa-gipuzkoa",
+              "value": "Guipúzcoa/Gipuzkoa",
+              "count": 6
+           },
+           {
+              "key": "illes-balears",
+              "value": "Islas Baleares/Illes Balears",
+              "count": 6
+           },
+           {
+              "key": "lleida",
+              "value": "Lleida",
+              "count": 6
+           },
+           {
+              "key": "lugo",
+              "value": "Lugo",
+              "count": 6
+           },
+           {
+              "key": "murcia",
+              "value": "Murcia",
+              "count": 6
+           },
+           {
+              "key": "navarra",
+              "value": "Navarra",
+              "count": 6
+           },
+           {
+              "key": "ourense",
+              "value": "Ourense",
+              "count": 6
+           },
+           {
+              "key": "santa-cruz-de-tenerife",
+              "value": "Santa Cruz de Tenerife",
+              "count": 6
+           },
+           {
+              "key": "almeria",
+              "value": "Almería",
+              "count": 6
+           },
+           {
+              "key": "burgos",
+              "value": "Burgos",
+              "count": 5
+           },
+           {
+              "key": "caceres",
+              "value": "Cáceres",
+              "count": 5
+           },
+           {
+              "key": "cadiz",
+              "value": "Cádiz",
+              "count": 5
+           },
+           {
+              "key": "cantabria",
+              "value": "Cantabria",
+              "count": 5
+           },
+           {
+              "key": "ceuta",
+              "value": "Ceuta",
+              "count": 5
+           },
+           {
+              "key": "alava-araba",
+              "value": "Álava/Araba",
+              "count": 5
+           },
+           {
+              "key": "guadalajara",
+              "value": "Guadalajara",
+              "count": 5
+           },
+           {
+              "key": "huelva",
+              "value": "Huelva",
+              "count": 5
+           },
+           {
+              "key": "huesca",
+              "value": "Huesca",
+              "count": 5
+           },
+           {
+              "key": "jaen",
+              "value": "Jaén",
+              "count": 5
+           },
+           {
+              "key": "la-rioja",
+              "value": "La Rioja",
+              "count": 5
+           },
+           {
+              "key": "leon",
+              "value": "León",
+              "count": 5
+           },
+           {
+              "key": "melilla",
+              "value": "Melilla",
+              "count": 5
+           },
+           {
+              "key": "palencia",
+              "value": "Palencia",
+              "count": 5
+           },
+           {
+              "key": "segovia",
+              "value": "Segovia",
+              "count": 5
+           },
+           {
+              "key": "soria",
+              "value": "Soria",
+              "count": 5
+           },
+           {
+              "key": "tarragona",
+              "value": "Tarragona",
+              "count": 5
+           },
+           {
+              "key": "teruel",
+              "value": "Teruel",
+              "count": 5
+           },
+           {
+              "key": "toledo",
+              "value": "Toledo",
+              "count": 5
+           },
+           {
+              "key": "zamora",
+              "value": "Zamora",
+              "count": 5
+           },
+           {
+              "key": "avila",
+              "value": "Ávila",
+              "count": 5
+           },
+           {
+              "key": "badajoz",
+              "value": "Badajoz",
+              "count": 5
+           },
+           {
+              "key": "andorra-la-vella",
+              "value": "Andorra la Vella",
+              "count": 1
+           }
+        ]
+     },
+     {
+        "key": "city",
+        "name": "Población",
+        "values": [
+           {
+              "key": "madrid",
+              "value": "Madrid",
+              "count": 73
+           },
+           {
+              "key": "barcelona",
+              "value": "Barcelona",
+              "count": 10
+           },
+           {
+              "key": "valencia",
+              "value": "Valencia",
+              "count": 9
+           },
+           {
+              "key": "bilbao",
+              "value": "Bilbao",
+              "count": 8
+           },
+           {
+              "key": "sevilla",
+              "value": "Sevilla",
+              "count": 7
+           },
+           {
+              "key": "alcobendas",
+              "value": "Alcobendas",
+              "count": 5
+           },
+           {
+              "key": "malaga",
+              "value": "Málaga",
+              "count": 4
+           },
+           {
+              "key": "a-coruna",
+              "value": "A Coruña",
+              "count": 3
+           },
+           {
+              "key": "bollullos-de-la-mitacion",
+              "value": "Bollullos de la Mitación",
+              "count": 3
+           },
+           {
+              "key": "llanera",
+              "value": "Llanera",
+              "count": 3
+           },
+           {
+              "key": "salamanca",
+              "value": "Salamanca",
+              "count": 3
+           },
+           {
+              "key": "tres-cantos",
+              "value": "Tres Cantos",
+              "count": 3
+           },
+           {
+              "key": "zaragoza",
+              "value": "Zaragoza",
+              "count": 3
+           },
+           {
+              "key": "albacete",
+              "value": "Albacete",
+              "count": 2
+           },
+           {
+              "key": "cordoba",
+              "value": "Córdoba",
+              "count": 2
+           },
+           {
+              "key": "girona",
+              "value": "Girona",
+              "count": 2
+           },
+           {
+              "key": "granada",
+              "value": "Granada",
+              "count": 2
+           },
+           {
+              "key": "las-palmas-de-gran-canaria",
+              "value": "Las Palmas de Gran Canaria",
+              "count": 2
+           },
+           {
+              "key": "las-rozas-de-madrid",
+              "value": "Las Rozas de Madrid",
+              "count": 2
+           },
+           {
+              "key": "oviedo",
+              "value": "Oviedo",
+              "count": 2
+           },
+           {
+              "key": "pozuelo-de-alarcon",
+              "value": "Pozuelo de Alarcón",
+              "count": 2
+           },
+           {
+              "key": "Remoto",
+              "value": "Remoto",
+              "count": 2
+           },
+           {
+              "key": "sant-cugat-del-valles",
+              "value": "Sant Cugat del Vall??s",
+              "count": 2
+           },
+           {
+              "key": "valladolid",
+              "value": "Valladolid",
+              "count": 2
+           },
+           {
+              "key": "vigo",
+              "value": "Vigo",
+              "count": 2
+           },
+           {
+              "key": "ajalvir",
+              "value": "Ajalvir",
+              "count": 1
+           },
+           {
+              "key": "alcoy-alcoi",
+              "value": "Alcoy/Alcoi",
+              "count": 1
+           },
+           {
+              "key": "alicante-alacant",
+              "value": "Alicante/Alacant",
+              "count": 1
+           },
+           {
+              "key": "almeria",
+              "value": "Almería",
+              "count": 1
+           },
+           {
+              "key": "alquerias-del-nino-perdido",
+              "value": "Alquerías del Niño Perdido",
+              "count": 1
+           },
+           {
+              "key": "Andorra+La+Vella",
+              "value": "Andorra La Vella",
+              "count": 1
+           },
+           {
+              "key": "barakaldo",
+              "value": "Barakaldo",
+              "count": 1
+           },
+           {
+              "key": "cuenca",
+              "value": "Cuenca",
+              "count": 1
+           },
+           {
+              "key": "cadiz",
+              "value": "Cádiz",
+              "count": 1
+           },
+           {
+              "key": "derio",
+              "value": "Derio",
+              "count": 1
+           },
+           {
+              "key": "donostia-san-sebastian",
+              "value": "Donostia-San Sebastián",
+              "count": 1
+           },
+           {
+              "key": "durango",
+              "value": "Durango",
+              "count": 1
+           },
+           {
+              "key": "elche-elx",
+              "value": "Elche/Elx",
+              "count": 1
+           },
+           {
+              "key": "erandio",
+              "value": "Erandio",
+              "count": 1
+           },
+           {
+              "key": "fortuna",
+              "value": "Fortuna",
+              "count": 1
+           },
+           {
+              "key": "getxo",
+              "value": "Getxo",
+              "count": 1
+           },
+           {
+              "key": "gijon",
+              "value": "Gijón",
+              "count": 1
+           },
+           {
+              "key": "la-rinconada",
+              "value": "La Rinconada",
+              "count": 1
+           },
+           {
+              "key": "laudio-llodio",
+              "value": "Laudio/Llodio",
+              "count": 1
+           },
+           {
+              "key": "leganes",
+              "value": "Leganés",
+              "count": 1
+           },
+           {
+              "key": "lleida",
+              "value": "Lleida",
+              "count": 1
+           },
+           {
+              "key": "lugo",
+              "value": "Lugo",
+              "count": 1
+           },
+           {
+              "key": "majadahonda",
+              "value": "Majadahonda",
+              "count": 1
+           },
+           {
+              "key": "manresa",
+              "value": "Manresa",
+              "count": 1
+           },
+           {
+              "key": "orkoien",
+              "value": "Orkoien",
+              "count": 1
+           },
+           {
+              "key": "palau-solita-i-plegamans",
+              "value": "Palau-solità i Plegamans",
+              "count": 1
+           },
+           {
+              "key": "paterna",
+              "value": "Paterna",
+              "count": 1
+           },
+           {
+              "key": "petrer",
+              "value": "Petrer",
+              "count": 1
+           },
+           {
+              "key": "quart-de-poblet",
+              "value": "Quart de Poblet",
+              "count": 1
+           },
+           {
+              "key": "san-vicente-del-raspeig-sant-vicent-del-raspeig",
+              "value": "San Vicente del Raspeig/Sant Vicent del Raspeig",
+              "count": 1
+           },
+           {
+              "key": "sant-boi-de-llobregat",
+              "value": "Sant Boi de Llobregat",
+              "count": 1
+           },
+           {
+              "key": "santa-cruz-de-tenerife",
+              "value": "Santa Cruz de Tenerife",
+              "count": 1
+           },
+           {
+              "key": "terrassa",
+              "value": "Terrassa",
+              "count": 1
+           },
+           {
+              "key": "tomelloso",
+              "value": "Tomelloso",
+              "count": 1
+           },
+           {
+              "key": "torrejon-de-ardoz",
+              "value": "Torrejón de Ardoz",
+              "count": 1
+           },
+           {
+              "key": "torremolinos",
+              "value": "Torremolinos",
+              "count": 1
+           },
+           {
+              "key": "velez-malaga",
+              "value": "Vélez-Málaga",
+              "count": 1
+           },
+           {
+              "key": "zamudio",
+              "value": "Zamudio",
+              "count": 1
+           }
+        ]
+     },
+     {
+        "key": "teleworking",
+        "name": "Presencial/Teletrabajo",
+        "values": [
+           {
+              "key": "teletrabajo-posible",
+              "value": "Híbrido",
+              "count": 94
+           },
+           {
+              "key": "solo-teletrabajo",
+              "value": "Solo teletrabajo",
+              "count": 49
+           },
+           {
+              "key": "trabajo-solo-presencial",
+              "value": "Presencial",
+              "count": 41
+           },
+           {
+              "key": "no-se-sabe-no-esta-decidido",
+              "value": "Sin especificar",
+              "count": 7
+           }
+        ]
+     },
+     {
+        "key": "category",
+        "name": "Categoría",
+        "values": [
+           {
+              "key": "informatica-telecomunicaciones",
+              "value": "Informática y telecomunicaciones",
+              "count": 177
+           },
+           {
+              "key": "diseno-artes-graficas",
+              "value": "Diseño y artes gráficas",
+              "count": 5
+           },
+           {
+              "key": "ingenieros-tecnicos",
+              "value": "Ingenieros y técnicos",
+              "count": 4
+           },
+           {
+              "key": "administracion-publica",
+              "value": "Administración Pública",
+              "count": 3
+           },
+           {
+              "key": "otros",
+              "value": "Otros",
+              "count": 2
+           },
+           {
+              "key": "calidad-produccion-id",
+              "value": "Calidad, producción e I+D",
+              "count": 2
+           },
+           {
+              "key": "finanzas-banca",
+              "value": "Finanzas y banca",
+              "count": 2
+           },
+           {
+              "key": "marketing-comunicacion",
+              "value": "Marketing y comunicación",
+              "count": 1
+           }
+        ]
+     },
+     {
+        "key": "study",
+        "name": "Estudios",
+        "values": [
+           {
+              "key": "ciclo-formativo-grado-superior",
+              "value": "Ciclo Formativo Grado Superior",
+              "count": 92
+           },
+           {
+              "key": "ciclo-formativo-grado-medio",
+              "value": "Ciclo Formativo Grado Medio",
+              "count": 29
+           },
+           {
+              "key": "grado",
+              "value": "Grado",
+              "count": 22
+           },
+           {
+              "key": "ingeniero-tecnico",
+              "value": "Ingeniería Técnica",
+              "count": 16
+           },
+           {
+              "key": "formacion-profesional-grado-superior",
+              "value": "Formación Profesional Grado Superior",
+              "count": 15
+           },
+           {
+              "key": "formacion-profesional-grado-medio",
+              "value": "Formación Profesional Grado Medio",
+              "count": 6
+           },
+           {
+              "key": "sin-estudios",
+              "value": "Sin estudios",
+              "count": 4
+           },
+           {
+              "key": "educacion-secundaria-obligatoria",
+              "value": "Educación Secundaria Obligatoria",
+              "count": 3
+           },
+           {
+              "key": "bachillerato",
+              "value": "Bachillerato",
+              "count": 3
+           },
+           {
+              "key": "ingeniero-superior",
+              "value": "Ingeniería Superior",
+              "count": 2
+           },
+           {
+              "key": "licenciado",
+              "value": "Licenciatura",
+              "count": 2
+           },
+           {
+              "key": "diplomado",
+              "value": "Diplomatura",
+              "count": 1
+           },
+           {
+              "key": "otros-cursos-y-formacion-no-reglada",
+              "value": "Otros cursos y formación no reglada",
+              "count": 1
+           }
+        ]
+     },
+     {
+        "key": "contractType",
+        "name": "Tipo de contrato",
+        "values": [
+           {
+              "key": "indefinido",
+              "value": "Indefinido",
+              "count": 182
+           },
+           {
+              "key": "otros-contratos",
+              "value": "Otros contratos",
+              "count": 6
+           },
+           {
+              "key": "fijo-discontinuo",
+              "value": "Fijo discontinuo",
+              "count": 4
+           },
+           {
+              "key": "formativo",
+              "value": "Formativo",
+              "count": 2
+           },
+           {
+              "key": "autonomo",
+              "value": "Autónomo",
+              "count": 1
+           },
+           {
+              "key": "de-duracion-determinada",
+              "value": "De duración determinada",
+              "count": 1
+           }
+        ]
+     },
+     {
+        "key": "workDay",
+        "name": "Jornada laboral",
+        "values": [
+           {
+              "key": "completa",
+              "value": "Completa",
+              "count": 182
+           },
+           {
+              "key": "indiferente",
+              "value": "Indiferente",
+              "count": 9
+           },
+           {
+              "key": "intensiva-manana",
+              "value": "Intensiva - Mañana",
+              "count": 4
+           },
+           {
+              "key": "intensiva-indiferente",
+              "value": "Intensiva - Indiferente",
+              "count": 1
+           }
+        ]
+     },
+     {
+        "key": "experienceMin",
+        "name": "Experiencia",
+        "values": [
+           {
+              "key": "al-menos-2-anos",
+              "value": "Al menos 2 años",
+              "count": 65
+           },
+           {
+              "key": "al-menos-3-anos",
+              "value": "Al menos 3 años",
+              "count": 57
+           },
+           {
+              "key": "al-menos-1-ano",
+              "value": "Al menos 1 año",
+              "count": 35
+           },
+           {
+              "key": "no-requerida",
+              "value": "No Requerida",
+              "count": 15
+           },
+           {
+              "key": "mas-de-5-anos",
+              "value": "Más de 5 años",
+              "count": 14
+           },
+           {
+              "key": "al-menos-4-anos",
+              "value": "Al menos 4 años",
+              "count": 10
+           }
+        ]
+     },
+     {
+        "key": "country",
+        "name": "País",
+        "values": [
+           {
+              "key": "espana",
+              "value": "España",
+              "count": 195
+           },
+           {
+              "key": "andorra",
+              "value": "Andorra",
+              "count": 1
+           }
+        ]
+     }
+  ],
+  "queryParameters": {
+     "study": [],
+     "province": [
+        "seleccionar"
+     ],
+     "salaryPeriod": "seleccionar",
+     "city": [],
+     "contractType": [],
+     "query": "desarrollador JavaScript",
+     "experienceMin": [],
+     "category": [
+        "-"
+     ],
+     "workDay": [],
+     "teleworking": []
+  },
+  "eligibleForAutomaticAlertCreation": false,
+  "offers": [
+     {
+        "id": "674efacc9c4b05a5c4ad50db0245dc",
+        "title": "Desarrollador Javascript (Carrera + 1 año exp. o Grado FP + 3 años exp.)",
+        "province": {
+           "id": 43,
+           "value": "Sevilla"
+        },
+        "city": "Sevilla",
+        "link": "https://www.infojobs.net/sevilla/desarrollador-javascript-carrera-1-ano-exp.-grado-fp-3-anos-exp./of-i674efacc9c4b05a5c4ad50db0245dc",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 275,
+           "value": "27.000 €"
+        },
+        "salaryMax": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-19T10:09:36.000Z",
+        "updated": "2023-05-19T10:09:36.000Z",
+        "author": {
+           "id": "66565251484951979810017006314458008415",
+           "privateId": 1461639038,
+           "name": "abde business consulting",
+           "uri": "https://abde-bc.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/0f/0f642d0a-d371-4b11-bafa-41cfc60e1e8f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0MjY0MDIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wZi8wZjY0MmQwYS1kMzcxLTRiMTEtYmFmYS00MWNmYzYwZTFlOGYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.mmzIbiLLmSd8RSkhbJsffqrlRhL9uipPgJUgZx23HZwf5USDdgNGdGYsgSnsoequhPWlQIr8x_WymTl0ODpjBGYgdr9OE0mwxfVpBBvCI4GAGMEWXs96ekKhn9O8crLie7Yy-57VHlueP_sGTqx-roXqRPw_x0cWfjqHMoMxJvmDkulOZbLRuQibEJpP9bv8qzRFNnX-SAxGzJWh6kYjUKfsPx-vrsmobiPHp70TOyw8PLXOSCsCWrpXfB4DodAluOt2I_drGSzg7ubo3hy-Vkso4Z4ijiaQFWh5f7xDBb1TETJk5WR_hjiM05EyydcCtu13Nrg4avigvxfhUamiOA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Al menos 1 año de experiencia profesional relevante teniendo la Carrera de 4 años o 3 años de experiencia teniendo Grado (FP).
+· Conocimiento profundo del inglés tanto a nivel oral como escrito (mín. B2)
+· Habilidades interpersonales, organizativas y de resolución de problemas comprobadas, y la capacidad de trabajar de forma independiente y como parte de un equipo.
+· Experiencia con herramientas y técnicas modernas de desarrollo de JavaScript
+· Experiencia con Typescript y el framework Angular
+· Conocimientos básicos de Java y el framework Spring
+
+Valorable:
+· UI design
+· SQL
+· Source versioning tools (pref. Git)
+· Agile methodologies
+· Microsoft PowerApps",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "27.000€ - 30.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "d2b819938548ec92fbe7c347e8f0c6",
+        "title": "Desarrollador@ FrontEnd JavaScript (TELETRABAJO)",
+        "province": {
+           "id": 41,
+           "value": "Salamanca"
+        },
+        "city": "Salamanca",
+        "link": "https://www.infojobs.net/salamanca/desarrollador-frontend-javascript-teletrabajo/of-id2b819938548ec92fbe7c347e8f0c6",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-23T08:49:20.000Z",
+        "updated": "2023-05-23T08:49:20.000Z",
+        "author": {
+           "id": "968749524526202550903215154841",
+           "privateId": 48419304,
+           "name": "METRICA CONSULTING",
+           "uri": "https://metrica.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/ed/ed9acdb5-9766-4215-9d0f-0d8b2b3c20ac?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2Njc1NDc1NjMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9lZC9lZDlhY2RiNS05NzY2LTQyMTUtOWQwZi0wZDhiMmIzYzIwYWMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.h848BVZbG8xUJQrVpeHoCocRI8Wt-TOifyDo51ocVbS9f9UAdW633hN4PwdmET6sZRVG_Eodc8qjw9kg5Bthl2sJRmwtLHwARYGhE1mUrxfr3IAHpDWt250js5vU1vg-6L8pWKJVmxHyh80dz3C5Gmrhzex_PIkgHHi-NWBMqQigxVOxEDjEEAAwQYwCgprS4rTAwOytF4unka9XWRSQEFjPpcn4BYeFfO2xX3vRh005mwpCKKDJB5VST5knf-Fu1j2L0c0pz95OhYabkk83Sj0NO9jolWwBtb00J63ZtGyMOzp5SBpcb5gayhwGtSfPjb52k63BklN1Y62raAB2rA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "6111a40e884cc3a0150bc3fec5efc3",
+        "title": "Desarrollador/a Full Stack (Nodejs/ Javascript)",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-full-stack-nodejs-javascript/of-i6111a40e884cc3a0150bc3fec5efc3",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 10,
+           "value": "Sin estudios"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-23T15:34:42.000Z",
+        "updated": "2023-05-23T15:34:42.000Z",
+        "author": {
+           "id": "98565648505348657686692018216272602945",
+           "privateId": 32902595230,
+           "name": "ALVEA SOLUCIONES TECNOLOGICAS, S.L.",
+           "uri": "https://www.infojobs.net/alvea-soluciones-tecnologicas-s.l./em-i98565648505348657686692018216272602945",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/cb/cb6c8491-2635-4ed5-bd03-95139739e852?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzIyMDQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9jYi9jYjZjODQ5MS0yNjM1LTRlZDUtYmQwMy05NTEzOTczOWU4NTIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.nOLifKIGP4-Jipo3Wdkb42u_-Sp0PMoJfiLRdBBVvDHo5kl1aAkuwsCzjfF7eY_MHR8wc8HMChu9YmHmC0cL8ldKwX_bPnbT8v26ed2k2Wiw4_E9QSOzfMS1qI94WzMKGutIrbV50MJK_2v3iWRNqK5yQ9OidbBDTgaP9IzI43z28DQoRMb0OHJ-rf1sidTyunOKapbA-AEiSKCaWxo87yXSDJ1A62AIfPBFqholiRdkJ4n5CcM9GqTjHlFFEHrAOEySG7PS69Hve-fZ1lHpNSxG_qbYb_6UASSU3nV-l-kxACzzBybDvRcHKWKNesFyvQzmDlvV6iuDsEaITFWgwg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "d8be2b8b0141a48d0dd89eb65e3845",
+        "title": "Desarrollador Javascript",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Sant Boi de Llobregat",
+        "link": "https://www.infojobs.net/sant-boi-de-llobregat/desarrollador-javascript/of-id8be2b8b0141a48d0dd89eb65e3845",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-23T07:42:21.000Z",
+        "updated": "2023-05-23T07:42:21.000Z",
+        "author": {
+           "id": "969157524526202350323214951121",
+           "privateId": 107602025,
+           "name": "NOVABASE – NEOTALENT ESPAÑA.",
+           "uri": "https://novabase.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/13/13ee552b-59fd-4c84-bddf-e866708d6d07?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NDUxODE5NzUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xMy8xM2VlNTUyYi01OWZkLTRjODQtYmRkZi1lODY2NzA4ZDZkMDciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.hne2LNobQP2nqM1H-bASWjcOYmMb3wxDYCzH63icHynPn2BGC2Th9lSSOvkbB9jPvwHjiwnGObpQIEi4h244e4Rv2N_L6EZIG5-1CLQmLK-GX8nzvLPxMXaVqXC9gKhGZHiOH6DAfOidJsEDUSzslzHX59fzL9AIFnrVk7IiJhhWH29z7ipAn0AcSe7xUXGlmivnz7rZAKCITMupa7uqaxKdFkmwMIqSOCZEad2iwUhJqV8OJxHVRyjZd4qKWQ3q8TecerTzHgmf3DpanlO5RptdsG-p5IrB4SdvWy2Ms8r_GNe91OMBHEG10BYmAwCqY7sbVeSRKv8_Ssy-3Zepxw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "063775bbf149e68d905dcbfb983a15",
+        "title": "Desarrollador Fullstack JavaScript",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Tres Cantos",
+        "link": "https://www.infojobs.net/tres-cantos/desarrollador-fullstack-javascript/of-i063775bbf149e68d905dcbfb983a15",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 30,
+           "value": "Formación Profesional Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-22T14:59:32.000Z",
+        "updated": "2023-05-22T14:59:32.000Z",
+        "author": {
+           "id": "969157524526202350323214951121",
+           "privateId": 107602025,
+           "name": "NOVABASE – NEOTALENT ESPAÑA.",
+           "uri": "https://novabase.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/13/13ee552b-59fd-4c84-bddf-e866708d6d07?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NDUxODE5NzUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xMy8xM2VlNTUyYi01OWZkLTRjODQtYmRkZi1lODY2NzA4ZDZkMDciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.hne2LNobQP2nqM1H-bASWjcOYmMb3wxDYCzH63icHynPn2BGC2Th9lSSOvkbB9jPvwHjiwnGObpQIEi4h244e4Rv2N_L6EZIG5-1CLQmLK-GX8nzvLPxMXaVqXC9gKhGZHiOH6DAfOidJsEDUSzslzHX59fzL9AIFnrVk7IiJhhWH29z7ipAn0AcSe7xUXGlmivnz7rZAKCITMupa7uqaxKdFkmwMIqSOCZEad2iwUhJqV8OJxHVRyjZd4qKWQ3q8TecerTzHgmf3DpanlO5RptdsG-p5IrB4SdvWy2Ms8r_GNe91OMBHEG10BYmAwCqY7sbVeSRKv8_Ssy-3Zepxw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Buscamos candidatos con al menos 3 años de experiencia en:
+Java
+JavaScript
+Docker / Kuberntes
+MongoDB",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "83a05fb1604c0c900eb514dd28f6e5",
+        "title": "Beca Desarrollador Web - Full Stack Web Developer (JavaScript, Angular, Laravel, WordPress, Prestashop, PHP, Mysql, Scrum Manager) en LAS PALMAS INCORPORACIÓN INMEDIATA",
+        "province": {
+           "id": 20,
+           "value": "Las Palmas"
+        },
+        "city": "Las Palmas de Gran Canaria",
+        "link": "https://www.infojobs.net/las-palmas-de-gran-canaria/beca-desarrollador-web-full-stack-web-developer-javascript-angular-laravel-wordpress-prestashop-php-mysql-scrum-manager-las-palmas-incorporacion-inmediata/of-i83a05fb1604c0c900eb514dd28f6e5",
+        "category": {
+           "id": 50,
+           "value": "Diseño y artes gráficas"
+        },
+        "contractType": {
+           "id": 3,
+           "value": "Formativo"
+        },
+        "subcategory": {
+           "id": 3030,
+           "value": "Diseño web"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 1,
+           "value": "No Requerida"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-22T09:03:09.000Z",
+        "updated": "2023-05-22T09:03:09.000Z",
+        "author": {
+           "id": "66534857485156786984841006294990919044",
+           "privateId": 1716402144,
+           "name": "NETT Digital School",
+           "uri": "https://nettformacion.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/bc/bcc5059d-5b66-4fa1-b624-03929a599376?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MDAwNjcwMTUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iYy9iY2M1MDU5ZC01YjY2LTRmYTEtYjYyNC0wMzkyOWE1OTkzNzYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.J8DRTfi-DIENVJKSykludWK6uz8hgPrM1d1KaJ3zGvdy4oUWbG0Jxem1gMg0syxE5qZKmaZqo_fkV8_UeoTEejOW5iutgXUJeyZuq6QO2kUqRqZ-3FVrpY8OsigNql8RFlpCVPB63qEBU96t7E9j3LgoKEaXIWe-tEENYS2B2udLVe0WUukKzfJZaDN9oEKCErnj1p47pH_lYzfIm8gU3rGhobAQHHEj3Uk-meP-o402Iloax3V9Xs-69BJONwn-cK7c-vKmRkiL7C0NcLbFEg702U86UbswDZW5ZYpX-knPs6JXQqGqUcIGkzKjtp8JmbO55YLu4nKzHWGWX4PRzQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Obligatorio utilizar lenguajes de cliente como HTML y CSS.
+
+Muy valorable: WordPress o PrestaShop,
+
+Valorable: Programar JavaScript y frameworks importantes como Angular y/o Vue.js, controlar las versiones en el desarrollo de software utilizando GitHub, utilizar Servidores web, herramientas relacionadas y programar del lado del servidor con PHP, bases de datos MySQL y el framework Laravel y/o Symfony, así como visibilizar tu proyectos utilizando SEO Técnico, enfocarlos con técnicas de usabilidad web y UX y gestionarlos mediante Scrum Manager.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 21,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "8b1013f2f94062bdee7d21969fc9f8",
+        "title": "Desarrollador/a Front (Javascript)",
+        "province": {
+           "id": 51,
+           "value": "Vizcaya/Bizkaia"
+        },
+        "city": "Bilbao",
+        "link": "https://www.infojobs.net/bilbao/desarrollador-front-javascript/of-i8b1013f2f94062bdee7d21969fc9f8",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-19T09:09:08.000Z",
+        "updated": "2023-05-19T09:09:08.000Z",
+        "author": {
+           "id": "963556524526202150543215254758",
+           "privateId": 48419592,
+           "name": "INETUM Norte",
+           "uri": "https://inetum.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/88/887a15cf-786f-4228-ad56-997cfa1c9425?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NDE4MTU3OTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84OC84ODdhMTVjZi03ODZmLTQyMjgtYWQ1Ni05OTdjZmExYzk0MjUiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.W5KQtNDC4wUUlwf0i2e9iodxkC755afOsdDjkmfZ_J0Wcrt7CyXmQ2ceHkKmoBzM4DVUCQFh1Jy9cjLBpv0qB0Mx4-6KvfiViyWVG94K39SnRiXmIBPvtKRiQ_uW3g7utAIWROfk0V70dDeOJypxmximNn8C22wohIKjaWxC2ocpGQKhV5j9EMAE5nk5BmQlaTh_3yZRUGg6ljPKgsR6Xef8OVsM6CfTpfl8oBt9-cVlsVGLldoTrkwARLze7AElzsUQaGrtTxTBjNav-WosExahU2R_mchrzjgHjvT1XY2fr4Ps7plFcIv8l0m5CBMuFazS4TtDAf-0E8z6jJbtVw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Formación en entorno técnico
+- Conocimientos en Programación Front-End
+- Conocimientos en Programación con Javascript
+- Experiencia previa en proyectos de Desarrollo Front End
+- Proactividad
+- Trabajo en equipo
+- Nivel medio de inglés",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "dbfb1305854fefb3d23ed90aa66fe3",
+        "title": "Desarrollador/a .Net,Html5 y Javascript",
+        "province": {
+           "id": 51,
+           "value": "Vizcaya/Bizkaia"
+        },
+        "city": "Bilbao",
+        "link": "https://www.infojobs.net/bilbao/desarrollador-.net-html5-javascript/of-idbfb1305854fefb3d23ed90aa66fe3",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 1300,
+           "value": "20.000 €"
+        },
+        "salaryMax": {
+           "id": 1310,
+           "value": "22.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 10,
+           "value": "Indiferente"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-04-26T11:30:14.000Z",
+        "updated": "2023-05-17T13:00:02.000Z",
+        "author": {
+           "id": "926148524528009390663925053962",
+           "privateId": 204348994,
+           "name": "CONSULPYME",
+           "uri": "https://www.infojobs.net/consulpyme/em-i926148524528009390663925053962",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/0a/0ac9aee0-c53a-4dc9-a5be-f77d06e5dca7?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MzUxNTkwOTgsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wYS8wYWM5YWVlMC1jNTNhLTRkYzktYTViZS1mNzdkMDZlNWRjYTciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.CyKYaKWe2PfkTND1YGIDuM-HgOADaIiARXNT0zNUbSjZJfQHv7ARCJFBruAX6qpHhF4_7-drJcYLA33OT2eqbHLiUtQ3cshLn5QIBi_6Zr3ZSzZlcvDt_U-RfdLyBVlvBkw6OKoVWNjJJ87e1Rfk4tyAWzGotcbu6ItboRBy-ltuVKSC9B8OpovkepvyOEl5RWsj6kDQAZCcy4bKI6Y2CYtaU4Sqv4IsKV59v5nrRmqjpHCIJJEA34bqSSfNCThgBK346PbLyUEgTbDKXLRGWoLMCt5PeKSHai0z_GgwwSXFbOp9dWiE5_R2QqqmfTUf3rL43pN-zh796VO0fRnD2g&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "20.000€ - 22.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "137be1a21c44c4833a69ae3ad2aa64",
+        "title": "Desarrollador Frontend (Javascript nativo)",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-frontend-javascript-nativo/of-i137be1a21c44c4833a69ae3ad2aa64",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 990,
+           "value": "45.000 €"
+        },
+        "salaryMax": {
+           "id": 440,
+           "value": "50.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 5,
+           "value": "Más de 5 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 125,
+           "value": "Grado"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-03T08:10:20.000Z",
+        "updated": "2023-05-03T08:10:20.000Z",
+        "author": {
+           "id": "66565254564054758269764007124889105572",
+           "privateId": 2063893948,
+           "name": "KRELL CONSULTING & TRAINING",
+           "uri": "https://www.infojobs.net/krell-consulting-training/em-i66565254564054758269764007124889105572",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/04/04b4064f-9021-4532-880e-3cc511184862?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzkyNTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wNC8wNGI0MDY0Zi05MDIxLTQ1MzItODgwZS0zY2M1MTExODQ4NjIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.PEaV7dec8hCxAHMqdopXtjkYItlD8KpSOvYxzmZ6yMHCcHOnjt9Q-PU-C2bpm9F8S8EGK-f0RucMPXsskmUsFK8dMT-90r5Q0Z_3RDvSe_XPdsRdlbwI52lkHNmQaSb_1l2N7ADwHOObDJX5EpTCB4dEoSKq-qr89FgndoVy0xlXGfGUniIkKTTjuXNvVwVn_mA3BmwGysRitjEOudtYLxPvNHEjfwfBIn4GGJPfGkLlCVd3cmQL74UxlSvpaQvhSYTDgRirpnA6zTcsHLYKqnzdTp50OKUeATUoNkEduMq9OEbRtEhZmcUHzzITW_YuZcwQCootcX-bhQjiAHhuVQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 32,
+        "executive": false,
+        "salaryDescription": "45.000€ - 50.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "e3fae3826647bc8750340b6804e309",
+        "title": "Lead Javascript developer - React",
+        "province": {
+           "id": 51,
+           "value": "Vizcaya/Bizkaia"
+        },
+        "city": "Getxo",
+        "link": "https://www.infojobs.net/getxo/lead-javascript-developer-react/of-ie3fae3826647bc8750340b6804e309",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 990,
+           "value": "45.000 €"
+        },
+        "salaryMax": {
+           "id": 500,
+           "value": "66.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 5,
+           "value": "Más de 5 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-13T14:29:30.000Z",
+        "updated": "2023-05-13T14:29:30.000Z",
+        "author": {
+           "id": "98575355535654798069782019146294909173",
+           "privateId": 35132613952,
+           "name": "Open coast S.L.",
+           "uri": "https://www.infojobs.net/open-coast-s.l./em-i98575355535654798069782019146294909173",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/89/8986ea5b-d15d-49ae-a920-d354b4174768?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTAxNjM2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84OS84OTg2ZWE1Yi1kMTVkLTQ5YWUtYTkyMC1kMzU0YjQxNzQ3NjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.B7wgGDc3tcfiFhg5nQG4Zq1MdvEz7bQ0-7wo8wjfoi0qXQnfxmg-duByFVsb_wrwVsYo1BjDmooQ7DJNrXrRHIdOs5MJDQgX75jzKBEdzRd0w_PQCYKkwMSDrt6cxcPxnYBKqAroNw5imb10Vj0umHnSjR4isLA_fyCjrxkCZx-UoVi8SY45_1A-vel6jz5_3MdCqANjty40WK-DzeO1K0KZRPz3w8Nmy9rIodC-ytdKe76ihwH8V9fe8E-L65lsn-VehtzljGlddf1UFnE4yj_QoxYcN7nobM99sa23zp1zf_FUAnvmGLhKQU3rsgrl39U4s0wcOiwlO5VZeBeemA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "REQUISITOS (OBLIGATORIOS) :
+
+* Mínimo 5 años de experiencia en desarrollo Javascript, 2 años mínimo con React.js con proyectos comerciales
+* Experiencia avanzada y comprobada al nível comercial con React.js y librerías asociadas (Redux, NextJS, Webpack, etc.)
+* Experiencia con soluciones de Text (Jest, Cypress, etc.)
+* Experiencia con otros frameworks MVC
+* Experiencia con Git
+* Expderiencia con API RESTful
+* Buen nivel de Inglés
+* Mentalidad ``get things done`` y ganas de crear y llevar productos nuevos al mercado
+
+REQUISITOS (FACULTATIVOS) :
+
+* Experiencia con Typescript
+* Experiencia con React Native
+* Experiencia con migración de código
+
+
+SOFT SKILLS :
+
+* Espiritu de equipo
+* Autónomidad para toma de decisión
+* Proactivo y actitud ``can do``
+* Grandes habilidades interpersonales y de comunicación
+* Pensamiento crítico y capacidad de resolución de problemas",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 32,
+        "executive": false,
+        "salaryDescription": "45.000€ - 66.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "c07bc2f2c841a3ba1ba008223bc8b3",
+        "title": "Frontend Developer React y Javascript (H/M/X)",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/frontend-developer-react-javascript-h-m-x/of-ic07bc2f2c841a3ba1ba008223bc8b3",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 30,
+           "value": "Formación Profesional Grado Medio"
+        },
+        "published": "2023-05-23T16:58:45.000Z",
+        "updated": "2023-05-23T16:58:45.000Z",
+        "author": {
+           "id": "3bd816397c43289b7287fa3b7886cf",
+           "privateId": 32152309354,
+           "name": "Experis IT",
+           "uri": "https://experis.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/7a/7a4d17a9-a354-4024-aae6-e2b20324ac76?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDgwNzEwNjEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy83YS83YTRkMTdhOS1hMzU0LTQwMjQtYWFlNi1lMmIyMDMyNGFjNzYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.Z-zHURM7zoE7eNtIKRB1agG-QTIuATCUtswqD6pLQ_glpWqLMe4kkvnxVUSTr0ClODK5Pye0BGZtgM9CUExu60rNLzaMpM1GAk9bU-Eiy-rYeOuETFM8czNBvXW5vuhrzxAhPnL3qLLmYFrifE2WTn64dwOgnY4NNvOc-0qqSodz6TZyIOwx-9aWrb-nynP3Q-px638zMHCuhI_3hwaR_7QS59iTqGBkmC7wKFCmhQ0DqbYqD1K5gS-EtDbPL9h8MMPhPp9py_9EGZWJ16-_iYUligaVOtlNcGp2NU2IDCN7pjki20v84QqEF2A-twRgSm4BhoGX6ZCQk4CjNyJZ8A&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Más de 0€",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "fb8cb941ef44f1a1c43010ab0cf00e",
+        "title": "Full Stack Developer - Java & JavaScript",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/full-stack-developer-java-javascript/of-ifb8cb941ef44f1a1c43010ab0cf00e",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-23T11:38:49.000Z",
+        "updated": "2023-05-23T11:38:49.000Z",
+        "author": {
+           "id": "98565356525551768567659014055281008495",
+           "privateId": 22135401014,
+           "name": "Luca TIC",
+           "uri": "https://luca-tic.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/f6/f6b9dd93-5f41-44c1-b638-b7b7022a033c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTcyMjkxMjQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9mNi9mNmI5ZGQ5My01ZjQxLTQ0YzEtYjYzOC1iN2I3MDIyYTAzM2MiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.bDOaZJ8jVm_LtAQPmwc6l0VIk3ZbTCsekXB2I7W_uAH_0u2ifzUnYsSwD-NZVnlh1NJKqBvLvg6iLs3C5agrmJIsOlGWZDTxC0YhVp4NojXD5vJlhYLv64WQOvGiK71bKycmOLXb2B1X1rovpkW5ghjruACBMijjyWZYOlGDQ-KZhmmTuElmzL-ALrqIFRCdA5CnL9lyuYhy6BIcyRlvkMUT9XfpFRIlgJEDCk7UI0whnkwoylHeqvX1YOx84pVfiDA58WSZycQ-nhyYA_UcxjZq9_7idxbDrXKnEuUmWenUot9COaC9w0DESCyJC0EpScdQcdpPpbEMpY0wZ4AwKw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Experiencia en desarrollos con versiones recientes de Java y con el framework de Spring 
+
+Experiencia trabajando con Thymeleaf
+
+Experiencia desarrollando con JavaScript, HTML, CSS y uso de librerías jQuery y BootStrap.
+
+Disponibilidad para asistir a oficinas del cliente en zona céntrica de Madrid.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "314f0d26fb4942acb3cf39444f59a3",
+        "title": "Javascript, node y vue developer",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/javascript-node-vue-developer/of-i314f0d26fb4942acb3cf39444f59a3",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-19T12:34:47.000Z",
+        "updated": "2023-05-19T12:34:47.000Z",
+        "author": {
+           "id": "875948524527205171823025141530",
+           "privateId": 175912149,
+           "name": "Quental Technologies",
+           "uri": "https://quental-techonolgies.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/d8/d894e72a-9fd4-4179-aee7-cab1048ed48f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTQ5MTAsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9kOC9kODk0ZTcyYS05ZmQ0LTQxNzktYWVlNy1jYWIxMDQ4ZWQ0OGYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.ivJsJU6XBL9vxJnKrwhs3i3INGncVEU05orbkKrXDA5EdFQ4SJCXn036VmBaOmC-1zKHD0F77Avwmzlmnf5uQl6qJB0Qeel_gxKvk4ZfINk18KdwXwj_g6SxsQz5ehGOLRYoEwFZZzNN2yPtZI78jDnzxPOjGN7SPS-0RgTeXuJ5n8yOnwqEt6TrrqAZQswAOTi6yUPRccB_Vp3Kh5bIzWQJK6OCR6vzIHQPfnW_Xrw3Lg-tMNk4CbOLmlCNJKz4F_RvUNjTqAaIwW-ERAfQUk_SibY_Uu86K9idOLU-LxjR4RgV931daw0YbZxMvtD1ntSZioJW8ANI1BP2DcvHmA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Fundamental al menos 2 años con Vue, Javascript y Node
+Scripting en Python, Groovy, Shell scripting, PowerShell.
+Testing para los lenguajes anteriores.
+Desarrollo de microservicios. Dockerización.
+Patrones de diseño.
+Inyecciones de dependencias.
+Conocimiento avanzado en bases de datos: relacionales y no relacionales y basadas en grafos, monolíticas y distribuidas.
+Conocimiento avanzado en Git, Gitflow and Bitbucket/GitHub/GitLab.
+Conocimiento en desarrollo de REST API e integración de terceros.
+Programación en entornos Windows.
+Capacidades básicas de administración de sistemas.
+Nivel mínimo de inglés B1",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "13fd7aadf241dfa4f73faf45c45ac9",
+        "title": "Desarrollador senior y junior de frontend",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-senior-junior-frontend/of-i13fd7aadf241dfa4f73faf45c45ac9",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 5,
+           "value": "Otros contratos"
+        },
+        "subcategory": {
+           "id": 3107,
+           "value": "Arquitectura"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-23T14:39:33.000Z",
+        "updated": "2023-05-23T14:39:33.000Z",
+        "author": {
+           "id": "963449524526202350703215150097",
+           "privateId": 48864961,
+           "name": "TEMPS ETT S.L.",
+           "uri": "https://temps.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/b4/b4eb2bcc-587a-4cb7-9f31-3b3e552e9adb?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MDE5OTUzMzQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iNC9iNGViMmJjYy01ODdhLTRjYjctOWYzMS0zYjNlNTUyZTlhZGIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.IabsvR5FaRIFoMCMxa9mP1JNRHwN4SK0M7CjcMkIztIgGWQ3JmrVsLq12MJVV3pvxe7_8E-Sw4zgYtTIZ2ZvAwWSImzBlO0pCluUJFsmbL0P5NWZxiF9eo4R7B920p4t2q6-JxrbVlv7TqcY34muOta4-1inr-DG6JjA5lgRxan1FdqyYwd6Ddg6dGnhGkVW1MZIGPmnOWjdVfLjXmpe-qZdjXa3s_2mnlaflQEiR_2wKfgpJ197Beh8u_VjDKW_4H16BJgnUCbbwX5zUJtprup2JTADgKjzkSmoAZy9joOxVzx1hWm_6xCFhIZQqTbX7aCbgJWJl9demcQ2zDD_8A&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Debe estar familiarizado con estas herramientas:
+
+- Plataformas de control de versiones como GitHub y/o GitLab
+
+- Herramientas de línea de comandos como Git, npm, gulp, SSH
+
+- Herramientas de colaboración como Teams (Microsoft 365)
+
+- Esto debería salir de tu trabajo al final:
+
+Sólidos diseños e interacciones receptivos:
+
+- Funcionalidad bien probada y que resuelve las necesidades del cliente
+
+- Un enfoque de implementación que se puede mantener y actualizar fácilmente
+
+- Código limpio y que pueda ser entendido y ampliado por otros
+
+- Estimaciones de tiempo que sean realistas.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "11db1c8d164d1d83bedeef335ab1cf",
+        "title": "Desarrollador Frontend Junior | Híbrido",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/desarrollador-frontend-junior-hibrido/of-i11db1c8d164d1d83bedeef335ab1cf",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 125,
+           "value": "Grado"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-23T15:27:37.000Z",
+        "updated": "2023-05-23T15:27:37.000Z",
+        "author": {
+           "id": "f8f29b4b1c404f96a2da79b949fe6a",
+           "privateId": 31259821352,
+           "name": "ALTEN",
+           "uri": "https://alten.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/12/12bddf65-deb1-4ed4-a344-4879c768f52c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NzQxNjI5MDksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xMi8xMmJkZGY2NS1kZWIxLTRlZDQtYTM0NC00ODc5Yzc2OGY1MmMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.FgQhSVWf-1Y8y3GXZNAvkbQX4a_PN_9uc0NUGKS3d764qqJCZF1AXd-KsgFo9NfiL0GbVTGBrNbYnzsRzDMMl0Hkg8wH1JeevolUZCOSa1WfTCKJREs7mCD_x1monRGyjqo4NebU97fdzvjoSRBT4RFQymGLKmEcMjEns6ve2TTkjAW5Ty4fwrhI_UMMju3_az5FCwoefvYmvmulAFbxUUTHt4ljeEA25phYftIfC_OW8WK8kjvrBxARoiDmmMas_puwSDXPFyl6Q_aZHygOgKTDR6HbToMLeANfBvxbaeG-LqRZyY_qhLacmGdG7aymJo6LcPsEwHKvuJNS7D1FeA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Recien graduado o con algo de experiencia o más como desarrollador Frontend que haya trabajado con React y JavaScript.
+-  Valorable conocimientos en Next.JS, Cypress y Testing funcional. 
+- Residencia en Barcelona.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "aa2163ddd046feb5799397a18ae5f9",
+        "title": "Desarrollador .NET - Híbrido Las Rozas",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Las Rozas de Madrid",
+        "link": "https://www.infojobs.net/las-rozas-de-madrid/desarrollador-.net-hibrido-las-rozas/of-iaa2163ddd046feb5799397a18ae5f9",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-23T13:35:03.000Z",
+        "updated": "2023-05-23T13:35:03.000Z",
+        "author": {
+           "id": "968354524526202750503215155078",
+           "privateId": 48486758,
+           "name": "NCS Spain",
+           "uri": "https://ncs.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/b4/b4a55822-42e1-4382-9dca-66ef219c40ac?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTczMDk2NDUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iNC9iNGE1NTgyMi00MmUxLTQzODItOWRjYS02NmVmMjE5YzQwYWMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.eoOAd6zXhFJNadnP0lo_u0R9Q-SD74tw7Lg7SCFNvfuSAh2nlzCDXuc-SQCznGyonWETR5EIobal62tRePGzJafVkgdrF5BIDdbEJg2tMP1QxPaciXOQbi0_n2bslVvnxdET775dbAn3zC7hmTg4roBxGtIm86kUGXDwLXiEhWfaiIMl0SZykuOzt3LiD2zXQVWMghXw13E_a8a-kzAo57tL0B_ETswO83FvVQRz-EpzwZvE2_r178KnIN3FRkYVP6BaGzKkSlds12BvvcbfH9zZtS-BcNZeWK8zQt2qbVdq0SL2P-BepR1gKk0kf8VjSM2QL1OfNj7VQHEZED5yLQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "DESARROLLADOR con al menos 3 años de experiencia en desarrollo de aplicaciones .net framework, .net core, Angular, MVC, Razor, Javascript, Boostrap, SQL server, principios SOLID y TDD.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "b4b1e6d6954e29858bbfe56c8a2549",
+        "title": "Desarrollador fullstack",
+        "province": {
+           "id": 17,
+           "value": "Córdoba"
+        },
+        "city": "Córdoba",
+        "link": "https://www.infojobs.net/cordoba/desarrollador-fullstack/of-ib4b1e6d6954e29858bbfe56c8a2549",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 270,
+           "value": "24.000 €"
+        },
+        "salaryMax": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-04-04T12:14:23.000Z",
+        "updated": "2023-05-23T15:30:02.000Z",
+        "author": {
+           "id": "db4a6d15-7b7f-4bd3-8b5e-9252984c7aa6",
+           "privateId": 47675957620,
+           "name": "Empresa del sector asegurador",
+           "uri": "https://www.infojobs.net/empresa-del-sector-asegurador/em-idb4a6d15-7b7f-4bd3-8b5e-9252984c7aa6",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "FP/Grado Superior/Ing. Informática 
+Experiencia demostrable en PHP y bases de datos. (SQL)
+Conocimientos de maquetación web. (HTML5, CSS, JavaScript, Bootstrap)
+Uso de algún framework de desarrollo. (Codeigniter, CakePHP, Laravel, Symfony..)
+Inglés nivel intermedio
+Proactivo/a. Autodidacta.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "24.000€ - 30.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "8141990c7545edbc9647a99923494f",
+        "title": "Desarrollador Front-End (ReactJS)",
+        "province": {
+           "id": 34,
+           "value": "Málaga"
+        },
+        "city": "Málaga",
+        "link": "https://www.infojobs.net/malaga/desarrollador-front-end-reactjs/of-i8141990c7545edbc9647a99923494f",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "published": "2023-05-02T11:09:52.000Z",
+        "updated": "2023-05-23T12:30:02.000Z",
+        "author": {
+           "id": "98575154494554701171164018255553800815",
+           "privateId": 33316404196,
+           "name": "Future Connections España",
+           "uri": "https://www.infojobs.net/future-connections-espana/em-i98575154494554701171164018255553800815",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/29/29f5f967-8eb4-4a26-9983-a6a771236117?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDc2Mzc1NzQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8yOS8yOWY1Zjk2Ny04ZWI0LTRhMjYtOTk4My1hNmE3NzEyMzYxMTciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.K_E5hgwMH7cwN0t-XZDNfjrx2_R-rsImpjhpgMW9F-ciiJpxvYrRRVaN9C7NbDFxv8M1wmn23axl_iLMnxL7QyHaxzMwrk1kVP0rh1jRMg11jjDOHM2AhLDk0brCI2TR9F8RGvvTvfulpMuHad7MyhsjXhLBzTak3Ch2JX2UMs18qLuUgFiM9tS_tJizMlSnJiKdSLoB3GydPGvnWFDvk5u-ji8UPZY56X6z5X1Nf0Vq5xcpY77LL1jLYPE2AoXwrD_k-mxNNoI81oA25m4wyADfNuP_Xe7kXobcdsPtrXJYsPmEoMj1xkuF9q-5BXvRid8bsMyEUfZMtRKs_ea8Ig&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "b8258c9a28408dbfb3516f5cbed5de",
+        "title": "Desarrollador  senior Front con  Angular -- Remoto 100%",
+        "province": {
+           "id": 28,
+           "value": "A Coruña"
+        },
+        "city": "A Coruña",
+        "link": "https://www.infojobs.net/a-coruna/desarrollador-senior-front-con-angular-remoto-100/of-ib8258c9a28408dbfb3516f5cbed5de",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 285,
+           "value": "33.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 4,
+           "value": "Al menos 4 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-23T16:52:17.000Z",
+        "updated": "2023-05-23T16:52:17.000Z",
+        "author": {
+           "id": "968749524526202550903215154841",
+           "privateId": 48419304,
+           "name": "METRICA CONSULTING",
+           "uri": "https://metrica.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/ed/ed9acdb5-9766-4215-9d0f-0d8b2b3c20ac?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2Njc1NDc1NjMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9lZC9lZDlhY2RiNS05NzY2LTQyMTUtOWQwZi0wZDhiMmIzYzIwYWMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.h848BVZbG8xUJQrVpeHoCocRI8Wt-TOifyDo51ocVbS9f9UAdW633hN4PwdmET6sZRVG_Eodc8qjw9kg5Bthl2sJRmwtLHwARYGhE1mUrxfr3IAHpDWt250js5vU1vg-6L8pWKJVmxHyh80dz3C5Gmrhzex_PIkgHHi-NWBMqQigxVOxEDjEEAAwQYwCgprS4rTAwOytF4unka9XWRSQEFjPpcn4BYeFfO2xX3vRh005mwpCKKDJB5VST5knf-Fu1j2L0c0pz95OhYabkk83Sj0NO9jolWwBtb00J63ZtGyMOzp5SBpcb5gayhwGtSfPjb52k63BklN1Y62raAB2rA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Desarrollador Front  con Angular con 4 años de experiencia",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "33.000€ - 36.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "fdbe38ed604b13bb07ab59b631a348",
+        "title": "Desarrollador/a DevOps",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-devops/of-ifdbe38ed604b13bb07ab59b631a348",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-23T13:33:15.000Z",
+        "updated": "2023-05-23T13:33:15.000Z",
+        "author": {
+           "id": "9b37c0dbf84572afbd6ab8a3e49678",
+           "privateId": 37710207654,
+           "name": "ENTELGY - Zona Madrid",
+           "uri": "https://entelgy.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/1a/1ab7dccc-0ff8-469a-8786-5cc67b2dfc51?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MTgyMzEwMTcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xYS8xYWI3ZGNjYy0wZmY4LTQ2OWEtODc4Ni01Y2M2N2IyZGZjNTEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.fMGYGc2FbFEygi14uebqXsu8TXL3r8JEG8m02Cjf6Jm9PBHenZc5bEdTuAL7pIfo3W3rA2SnuEyqo7cqOkzhw732-7K7G6Ao1CRSTozhz8oemIwU1CW9yUt9DUYyO71ZGNYzCI8aN9ds0vvb55ktd5LElJ8AAroR6ZBrXMP5VACTXLVyKmoBEyPuRw2CUxD_kgPKQMilTeAUoWsjpGuc8JN_9fXmzlosvlS1m-BEWPMmdmWqQQ_YOFwyc9nXG4VZqAHvkRDLzCdJyo9Em7wuWstj9SKrCq8XnY_418NCY8ZFOtHlXHjbFOziUEAeNc3ZeDUtsKINAd_azuMkEv-GXw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Al menos 2-3 años de experiencia trabajando con Jenkins, Kubernetes, Docker, SVN o Git, jQuery, Maven, Tomcat, CI/CD, JavaScript.
+- Muy valorable experiencia en Azure.
+- Disponibilidad para trabajar 2-3 días a la semana presencial (cerca de Atocha).
+- Nivel de inglés: B1/B2 (valorable)",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     }
+  ]
+}

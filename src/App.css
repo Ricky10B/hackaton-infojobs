@@ -16,28 +16,27 @@
   -webkit-line-clamp: 3;
 }
 
+.cabeceraPrincipal {
+  background: var(--bg-cabecera-principal);
+}
+
+.cambiarTema {
+  background: var(--bg-circulo-cambiar-tema);
+}
+
 .seccionOfertas {
   grid-template-columns: 13em 1fr;
 }
 
-.cabeceraPrincipal {
-  background: radial-gradient(at center center, rgb(150 195 255), rgb(206 228 253), rgb(230 240 255));
-  border-radius: 8px;
-}
-
 .circleChangeMode {
-  background: linear-gradient(195deg, #60ede6 10%, #0d63da 90%);
-  box-shadow: 0 0 1px #000;
+  background: var(--bg-circulo-cambiar-tema);
 }
 
 #inputChangeTheme + label > span {
   transition: opacity .3s ease;
 }
 
-#inputChangeTheme:checked + label > span:nth-child(odd) {
-  opacity: 0;
-}
-
+#inputChangeTheme:checked + label > span:nth-child(odd),
 :not(#inputChangeTheme:checked) + label > span:nth-child(even) {
   opacity: 0;
 }
@@ -45,9 +44,10 @@
 @media screen and (min-width: 640px) {
   #inputChangeTheme:checked + label > .circleChangeMode {
     transform: translateX(50px);
+    transition: transform ease-in-out 150ms;
+  }
+
+  .colorBordeCambiarTema {
+    background: var(--bg-circulo-cambiar-tema);
   }
 }
-
-/* .changeTheme {
-  background-color: #2088C2;
-} */

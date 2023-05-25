@@ -25,7 +25,7 @@ export const ListarOfertas = ({ ofertas }) => {
           showModalOffer={showModalOffer}
         />}
       <ul className='flex flex-col gap-2'>
-        {ofertas?.items?.map(oferta => {
+        {ofertas?.map(oferta => {
           return (
             <Oferta
               key={oferta.id}
@@ -35,9 +35,7 @@ export const ListarOfertas = ({ ofertas }) => {
           )
         })}
       </ul>
-      <Pagination
-        ofertas={ofertas}
-      />
+      <Pagination />
     </section>
   )
 }
