@@ -3,12 +3,12 @@ import { IconoFiltrar } from './components/LogosInfojobs.jsx'
 import { OfertasSection } from './components/OfertasSection'
 import { ModalUser } from './components/ModalUser'
 import { HeaderPrincipal } from './components/HeaderPrincipal'
-import { useModal } from './hooks/useShowModal'
 import { useAppSelector } from './hooks/useStore'
+import { useModalActions } from './hooks/useModalActions'
 
 function App () {
   const offers = useAppSelector(state => state.offersSlice)
-  const { toggleModals } = useModal()
+  const { toggleModals } = useModalActions()
 
   const toggleModalFilter = (showModal) => {
     toggleModals({ type: 'filter', showModal })

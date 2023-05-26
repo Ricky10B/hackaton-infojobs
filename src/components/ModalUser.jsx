@@ -1,17 +1,17 @@
 import { useState } from 'react'
 import { LogoInfojobs } from './LogosInfojobs'
-import { useAppDispatch, useAppSelector } from '../hooks/useStore'
-import { setUserGithub } from '../slice/userSlice'
-import { useModal } from '../hooks/useShowModal'
+import { useAppSelector } from '../hooks/useStore'
 import { BtnCerrarModal } from './BtnCerrarModal'
+import { useUserActions } from '../hooks/useUserActions'
+import { useModalActions } from '../hooks/useModalActions'
 
 export const ModalUser = () => {
-  const userGithub = useAppSelector(state => state.userSlice)
-  const { modalUser } = useAppSelector(state => state.modalsSlice)
-  const { toggleModals } = useModal()
-  const dispatch = useAppDispatch()
+  const usernameGithub = useAppSelector(state => state.userSlice.usernameGithub)
+  const modalUser = useAppSelector(state => state.modalsSlice.modalUser)
+  const { toggleModals } = useModalActions()
+  const { changeUserGithub } = useUserActions()
 
-  const [userGithubModal, setUserGithubModal] = useState(userGithub)
+  const [userGithubModal, setUserGithubModal] = useState(usernameGithub)
 
   const handleModalUserGithub = (showModal) => {
     toggleModals({ type: 'user', showModal })
@@ -24,12 +24,8 @@ export const ModalUser = () => {
 
   const handleSubmitUserGithub = (e) => {
     e.preventDefault()
-    handleUserGithub(userGithubModal)
+    changeUserGithub(userGithubModal)
     handleModalUserGithub(false)
-  }
-
-  const handleUserGithub = (username) => {
-    dispatch(setUserGithub({ username }))
   }
 
   return (
@@ -51,10 +47,11 @@ export const ModalUser = () => {
             onSubmit={handleSubmitUserGithub}
           >
             <div className='flex flex-col gap-1'>
-              <label className='text-[var(--color-text-modal-user)]'>
+              <label htmlFor='userGithub' className='text-[var(--color-text-modal-user)]'>
                 Nombre de usuario de Github
               </label>
               <input
+                id='userGithub'
                 type='text'
                 placeholder='Ricky10B, midudev, ...'
                 value={userGithubModal}

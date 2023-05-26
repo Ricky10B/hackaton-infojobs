@@ -2,11 +2,11 @@ import { BtnCambiarTema } from './BtnCambiarTema'
 import { BtnForm } from './BtnForm'
 import { LogoInfojobs } from './LogosInfojobs'
 import { useAppSelector } from '../hooks/useStore'
-import { useModal } from '../hooks/useShowModal'
+import { useModalActions } from '../hooks/useModalActions'
 
 export const HeaderPrincipal = () => {
-  const userGithub = useAppSelector(state => state.userSlice)
-  const { toggleModals } = useModal()
+  const usernameGithub = useAppSelector(state => state.userSlice.usernameGithub)
+  const { toggleModals } = useModalActions()
 
   const toggleModalInsertUsername = (showModal) => {
     toggleModals({ type: 'user', showModal })
@@ -25,7 +25,7 @@ export const HeaderPrincipal = () => {
             <button
               className='border-2 border-[var(--border-usuario-github)] text-[var(--border-usuario-github)] dark:border-[var(--border-usuario-github)] dark:text-[var(--border-usuario-github)] rounded-lg p-[3px] sm:py-1 sm:px-2 font-bold shadow-lg backdrop-blur-md hover:opacity-70 whitespace-nowrap'
               onClick={() => toggleModalInsertUsername(true)}
-            >{userGithub === '' ? 'Sin usuario' : userGithub}
+            >{usernameGithub || 'Sin usuario'}
             </button>
           </div>
           <BtnCambiarTema />

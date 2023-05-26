@@ -1,13 +1,11 @@
-import { useState } from 'react'
 import { ListarOfertas } from './ListarOfertas'
 import { PanelFiltros } from './PanelFiltros'
+// import { useFilters } from '../hooks/useFilters'
+
 // import { obtenerOfertas } from '../services/obtenerOfertas'
-import { useAppSelector } from '../hooks/useStore'
 
 export const OfertasSection = () => {
-  const offers = useAppSelector(state => state.offersSlice)
-  const [filterOffer, setFilter] = useState('')
-
+  // const { ofertasFiltradas } = useFilters()
   // useEffect(() => {
   //   obtenerOfertas()
   //     .then(ofertas => {
@@ -16,33 +14,10 @@ export const OfertasSection = () => {
   //     })
   // }, [])
 
-  const sortBy = (valor) => {
-    // console.log({ valor, offersJson })
-    const newListOffers = offers?.listOffers?.filter(offer => {
-      if (valor === '') return offer
-      return offer.teleworking.value.localeCompare(
-        valor, 'es',
-        { sensitivity: 'base' }
-      ) === 0
-    })
-    return newListOffers
-  }
-
-  const sortByModality = (valor) => {
-    console.log(valor)
-    setFilter(valor)
-  }
-
-  const ofertasFiltradas = sortBy(filterOffer)
-
   return (
     <section className='seccionOfertas flex md:grid gap-5 mx-4 my-1'>
-      <PanelFiltros
-        sortByModality={sortByModality}
-      />
-      <ListarOfertas
-        ofertas={ofertasFiltradas}
-      />
+      <PanelFiltros />
+      <ListarOfertas />
     </section>
   )
 }

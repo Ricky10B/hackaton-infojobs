@@ -1,10 +1,24 @@
 import { IconoDarkMode, IconoLightMode } from './LogosInfojobs'
+import { useAppSelector } from '../hooks/useStore'
+import { useEffect } from 'react'
+import { useUserActions } from '../hooks/useUserActions'
 
 export const BtnCambiarTema = () => {
-  const changeTheme = (e) => {
+  const themeApp = useAppSelector(state => state.userSlice.themeApp)
+  const { changeTheme } = useUserActions()
+
+  const handleChangeTheme = (e) => {
     const { checked } = e.target
-    document.documentElement.className = checked ? 'dark' : 'light'
+    const themeApp = checked ? 'dark' : 'light'
+
+    document.documentElement.className = themeApp
+    changeTheme(themeApp)
   }
+
+  useEffect(() => {
+    handleChangeTheme({ target: { checked: themeApp === 'dark' } })
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   return (
     <div className='flex'>
@@ -12,7 +26,8 @@ export const BtnCambiarTema = () => {
         type='checkbox'
         className='invisible absolute right-0'
         id='inputChangeTheme'
-        onClick={changeTheme}
+        onClick={handleChangeTheme}
+        defaultChecked={themeApp === 'dark'}
       />
       <label
         htmlFor='inputChangeTheme'

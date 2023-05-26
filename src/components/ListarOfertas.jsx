@@ -2,9 +2,10 @@ import { useState } from 'react'
 import { ModalOffer } from './ModalOffer'
 import { Pagination } from './Pagination'
 import { Oferta } from './Oferta'
+import ofertas from '../../public/offers.json'
 // import { obtenerOferta } from '../services/obtenerOferta'
 
-export const ListarOfertas = ({ ofertas }) => {
+export const ListarOfertas = () => {
   const [modalOffer, setModalOffer] = useState({
     showModal: false,
     offer: {}
@@ -25,7 +26,7 @@ export const ListarOfertas = ({ ofertas }) => {
           showModalOffer={showModalOffer}
         />}
       <ul className='flex flex-col gap-2'>
-        {ofertas?.map(oferta => {
+        {ofertas?.items?.map(oferta => {
           return (
             <Oferta
               key={oferta.id}
