@@ -3,7 +3,7 @@
  * @param {number} totalPages Total de páginas
  * @param {number} limitePaginasMostradas Cantidad de cuadros de páginas que se le van a mostrar al usuario
  * @param {number} paginaMinima Donde inicia a pasar la páginación
- * @returns void
+ * @returns {Array} Un arreglo de las páginas que se le van a mostrar al usuario
  */
 export function pagination (currentPage, totalPages, limitePaginasMostradas, paginaMinima) {
   const pagesPagination = Array.from({ length: totalPages }, (_, i) => i + 1)

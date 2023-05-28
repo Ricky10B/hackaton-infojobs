@@ -1,6 +1,36 @@
+let pageForDefault = new URLSearchParams(window.location.search).get('page')
+pageForDefault = pageForDefault && Number(pageForDefault) < 1 ? '1' : pageForDefault
+
 export const IMAGE_COMPANY_DEFAULT = 'https://components.infojobs.com/statics/images/pic-company-logo.png'
 
+export const initialStateUser = {
+  usernameGithub: '',
+  themeApp: 'light',
+  error: ''
+}
+
+export const initialStateModals = {
+  modalUser: true,
+  modalFilter: false
+}
+
+export const initialStateOffers = {
+  listOffers: [],
+  currentPage: 0,
+  totalResults: 0,
+  totalPages: 0,
+  queryParameters: {}
+}
+
 export const initialStateFilters = {
+  query: {
+    key: 'q',
+    value: ''
+  },
+  pages: {
+    key: 'page',
+    value: `page=${pageForDefault}`
+  },
   sortOffers: {
     key: 'order',
     value: 'order=relevancia-desc',
@@ -64,7 +94,7 @@ export const initialStateFilters = {
       },
       {
         text: 'Sin especificar',
-        value: '',
+        value: 'no-se-sabe-no-esta-decidido',
         isChecked: false
       }
     ]
