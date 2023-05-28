@@ -44,6 +44,7 @@
   --bg-header-modal-user: rgb(172 209 255);
   --bg-modal-user: #e9e9e9;
   --color-text-modal-user: rgb(75 85 99);
+  --color-error: #ec0000;
   --boton-enviar-usuario-github: rgb(30 64 175);
   --boton-enviar-usuario-github-hover: #153290;
   
@@ -63,10 +64,6 @@
   /* Styles Generals */
   --bg-barra-scroll: #c3c3c3;
 
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
 
@@ -107,6 +104,7 @@
   --bg-header-modal-user: #001352;
   --bg-modal-user: #020a25;
   --color-text-modal-user: rgb(213, 213, 213);
+  --color-error: #ff3939;
   --boton-enviar-usuario-github: rgb(15 44 139);
   --boton-enviar-usuario-github-hover: rgb(9 32 108);
 

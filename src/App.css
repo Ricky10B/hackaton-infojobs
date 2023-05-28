@@ -41,6 +41,22 @@
   opacity: 0;
 }
 
+.loaderInfojobs {
+  animation: loaderInfojobs linear 1.2s infinite;
+}
+
+@keyframes loaderInfojobs {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 @media screen and (min-width: 640px) {
   #inputChangeTheme:checked + label > .circleChangeMode {
     transform: translateX(50px);
