@@ -1,4 +1,4 @@
-import { setThemeApp, setUserGithub } from '../slice/userSlice'
+import { setThemeApp, setUserGithub, setError } from '../slice/userSlice'
 import { useAppDispatch } from './useStore'
 
 export const useUserActions = () => {
@@ -12,5 +12,9 @@ export const useUserActions = () => {
     dispatch(setUserGithub({ username }))
   }
 
-  return { changeTheme, changeUserGithub }
+  const handleSetError = (error) => {
+    dispatch(setError({ error }))
+  }
+
+  return { changeTheme, changeUserGithub, handleSetError }
 }

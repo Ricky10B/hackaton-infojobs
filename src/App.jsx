@@ -5,23 +5,42 @@ import { ModalUser } from './components/ModalUser'
 import { HeaderPrincipal } from './components/HeaderPrincipal'
 import { useAppSelector } from './hooks/useStore'
 import { useModalActions } from './hooks/useModalActions'
+import { LoaderInfojobs } from './components/LoaderInfojobs'
 
 function App () {
-  const offers = useAppSelector(state => state.offersSlice)
+  const totalResults = useAppSelector(state => state.offersSlice.totalResults)
+  const showLoader = useAppSelector(state => state.loaderSlice.showLoader)
+  const { value } = useAppSelector(state => state.filtersSlice.query)
+  const error = useAppSelector(state => state.userSlice.error)
+
   const { toggleModals } = useModalActions()
 
   const toggleModalFilter = (showModal) => {
-    toggleModals({ type: 'filter', showModal })
+    toggleModals('modalFilter', showModal)
+  }
+
+  let responseQuery = 'las publicaciones recientes'
+  if (value) {
+    responseQuery = `${value.split('=')[1]} tu lenguaje más usado`
   }
 
   return (
     <>
+      {showLoader && <LoaderInfojobs />}
       <HeaderPrincipal />
       <main className='my-2'>
         <div className='flex justify-between items-center mx-4'>
-          <p className='my-1 w-full overflow-hidden text-ellipsis whitespace-nowrap'>
-            {offers?.totalResults} ofertas de <span className='font-bold'>{offers?.queryParameters?.query}</span>
-          </p>
+          {
+            error
+              ? (
+                <p className='text-[var(--color-error)] font-semibold text-lg'>
+                  {error}
+                </p>)
+              : (
+                <p className='my-1 w-full overflow-hidden text-ellipsis whitespace-nowrap'>
+                  {totalResults} ofertas de <span className='font-bold'>{responseQuery}</span>
+                </p>)
+          }
           <button
             className='flex items-center gap-1 hover:bg-[var(--hover-botones)] rounded-lg px-3 py-2 font-semibold uppercase text-[var(--color-logo-infojobs)] visible md:invisible'
             onClick={() => toggleModalFilter(true)}
