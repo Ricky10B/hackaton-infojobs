@@ -4,28 +4,111 @@ import { useAppSelector } from '../hooks/useStore'
 import { BtnCerrarModal } from './BtnCerrarModal'
 import { useUserActions } from '../hooks/useUserActions'
 import { useModalActions } from '../hooks/useModalActions'
+import { useOffersAction } from '../hooks/useOffersActions'
+import { obtenerRepoUsuarioGithub } from '../services/obtenerRepoUsuarioGithub'
+import { obtenerLenguajeMasUsado } from '../utils/obtenerLenguajeMasUsado'
+import { getOffersWithParams } from '../utils/getOffersWithParams'
+import { useLoaderAction } from '../hooks/useLoaderAction'
+import { useFiltersAction } from '../hooks/useFiltersAction'
 
 export const ModalUser = () => {
   const usernameGithub = useAppSelector(state => state.userSlice.usernameGithub)
   const modalUser = useAppSelector(state => state.modalsSlice.modalUser)
+  const filtersOffers = useAppSelector(state => state.filtersSlice)
+  const listOffers = useAppSelector(state => state.offersSlice.listOffers)
+  const [userGithubModal, setUserGithubModal] = useState(usernameGithub)
+  const [errorGetUserGithub, setErrorGetUserGithub] = useState({
+    error: false,
+    text: ''
+  })
+
   const { toggleModals } = useModalActions()
   const { changeUserGithub } = useUserActions()
-
-  const [userGithubModal, setUserGithubModal] = useState(usernameGithub)
+  const { handleSetOffers } = useOffersAction()
+  const { setLoaderSlice } = useLoaderAction()
+  const { handleQueryParam } = useFiltersAction()
 
   const handleModalUserGithub = (showModal) => {
-    toggleModals({ type: 'user', showModal })
+    toggleModals('modalUser', showModal)
+    // Trae ofertas cuando el usuario no ingresó
+    // un nombre de usuario de github y no habían ofertas
+    // anteriores para momstrarle
+    if (!listOffers?.length) {
+      setLoaderSlice(true)
+      getOffersWithParams(filtersOffers)
+        .then(resOffers => {
+          handleSetOffers(resOffers)
+        })
+        .catch(err => {
+          console.error(err)
+          setErrorGetUserGithub({
+            error: true,
+            text: 'Ocurrió un error al obtener las ofertas'
+          })
+        })
+        .finally(() => {
+          setLoaderSlice(false)
+        })
+    }
   }
 
   const handleChangeUserGithub = (e) => {
     const { value } = e.target
+
+    if (value.trim() !== '' && errorGetUserGithub.error) {
+      setErrorGetUserGithub({
+        error: false,
+        text: ''
+      })
+    }
+
     setUserGithubModal(value)
+  }
+
+  const languageOfUserGithub = async (userGithubModal) => {
+    const reposUsuarioGithub = await obtenerRepoUsuarioGithub({ usernameGithub: userGithubModal })
+
+    // Si ocurrió algún problema obteniendo los repositorios
+    // no se traen las ofertas
+    if (reposUsuarioGithub === false) return false
+
+    const lenguajeMasUsado = obtenerLenguajeMasUsado(reposUsuarioGithub)
+    return lenguajeMasUsado[0]
   }
 
   const handleSubmitUserGithub = (e) => {
     e.preventDefault()
-    changeUserGithub(userGithubModal)
-    handleModalUserGithub(false)
+
+    if (userGithubModal.trim() === '') {
+      return setErrorGetUserGithub({
+        error: true,
+        text: 'El nombre de usuario no puede estar vacío'
+      })
+    }
+
+    setLoaderSlice(true)
+    languageOfUserGithub(userGithubModal)
+      .then(languageOfUser => {
+        if (!languageOfUser) {
+          return setErrorGetUserGithub({
+            error: true,
+            text: 'No se encontró el usuario de Github'
+          })
+        }
+
+        // Se encontró el usuario de Github
+        changeUserGithub(userGithubModal)
+        handleQueryParam(languageOfUser)
+        toggleModals('modalUser', false)
+      })
+      .catch(err => {
+        console.error(err)
+        setLoaderSlice(false)
+        setErrorGetUserGithub({
+          error: true,
+          text: 'Ocurrió un error al obtener el usuario de github'
+        })
+      })
   }
 
   return (
@@ -42,6 +125,7 @@ export const ModalUser = () => {
         </div>
         <div className='pt-2 pb-4 px-6 flex flex-col gap-4 rounded-b-lg'>
           <p className='text-[var(--color-text-modal-user)]'>Puedes proporcionar tu nombre de usuario de Github para recomendarte empleos que se basan en las tecnologías que más usas para que puedas encontrar las mejores ofertas para tí.</p>
+
           <form
             className='flex flex-col gap-2'
             onSubmit={handleSubmitUserGithub}
@@ -56,8 +140,16 @@ export const ModalUser = () => {
                 placeholder='Ricky10B, midudev, ...'
                 value={userGithubModal}
                 onChange={handleChangeUserGithub}
-                className='outline-none w-full rounded-md py-1 px-2 border border-transparent focus:shadow-[0_0_15px_rgba(0,0,0,.4)]'
+                className={`outline-none w-full rounded-md py-1 px-2 border focus:shadow-[0_0_15px_rgba(0,0,0,.4)] focus:border-transparent ${errorGetUserGithub.error ? 'border-[var(--color-error)]' : 'border-transparent'}`}
+                maxLength='80'
+                autoComplete='off'
+                autoFocus
               />
+              {errorGetUserGithub.error && (
+                <p className='font-semibold text-[var(--color-error)]'>
+                  {errorGetUserGithub.text}
+                </p>
+              )}
             </div>
 
             <div className='flex flex-col sm:flex-row justify-end gap-2'>

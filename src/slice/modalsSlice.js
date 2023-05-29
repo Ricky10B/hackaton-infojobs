@@ -1,11 +1,9 @@
 import { createSlice } from '@reduxjs/toolkit'
+import { initialStateModals } from '../consts'
 
 const initialState = (() => {
   const modalsStore = localStorage.getItem('__MODALS_STORE__')
-  return {
-    modalUser: JSON.parse(modalsStore)?.modalUser ?? true,
-    modalFilter: JSON.parse(modalsStore)?.modalFilter ?? false
-  }
+  return modalsStore ? JSON.parse(modalsStore) : initialStateModals
 })()
 
 export const modalsSlice = createSlice({
@@ -14,9 +12,10 @@ export const modalsSlice = createSlice({
   reducers: {
     setModal: (state, action) => {
       const { type, showModal } = action.payload
-      return type === 'user'
-        ? { ...state, modalUser: showModal }
-        : { ...state, modalFilter: showModal }
+      return {
+        ...state,
+        [type]: showModal
+      }
     }
   }
 })
