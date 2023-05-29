@@ -36,10 +36,42 @@ export const filtersSlice = createSlice({
         ...state,
         [name]: seccionFiltrado
       }
+    },
+    goToPage: (state, action) => {
+      const { page } = action.payload
+      if (Number(page) < 1) return state
+
+      return {
+        ...state,
+        pages: {
+          ...state.pages,
+          value: `page=${page}`
+        }
+      }
+    },
+    setQueryParam: (state, action) => {
+      const { query } = action.payload
+
+      return {
+        ...initialStateFilters,
+        query: {
+          ...initialStateFilters.query,
+          value: `q=${query}`
+        }
+      }
+    },
+    resetFilters: () => {
+      return {
+        ...initialStateFilters,
+        pages: {
+          ...initialStateFilters.pages,
+          value: 'page=1'
+        }
+      }
     }
   }
 })
 
 export default filtersSlice.reducer
 
-export const { setFilters } = filtersSlice.actions
+export const { setFilters, resetFilters, goToPage, setQueryParam } = filtersSlice.actions

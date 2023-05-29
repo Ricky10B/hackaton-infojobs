@@ -1,19 +1,42 @@
-import { useState } from 'react'
-import ofertas from '../../public/offers.json'
+import { useEffect } from 'react'
+import { useAppSelector } from './useStore'
+import { getOffersWithParams } from '../utils/getOffersWithParams'
+import { useOffersAction } from './useOffersActions'
+import { useLoaderAction } from './useLoaderAction'
+import { useUserActions } from './useUserActions'
 
 export const useFilters = () => {
-  const [filterOffer, setFilter] = useState(ofertas)
+  const filtersOffers = useAppSelector(state => state.filtersSlice)
+  const { modalUser } = useAppSelector(state => state.modalsSlice)
+  const error = useAppSelector(state => state.userSlice.error)
 
-  const sortByModality = (offers, valor) => {
-    const newListOffers = offers?.listOffers?.filter(offer => {
-      if (valor === '') return offer
-      return offer.teleworking.value.localeCompare(
-        valor, 'es',
-        { sensitivity: 'base' }
-      ) === 0
-    })
-    return newListOffers
-  }
+  const { handleSetOffers } = useOffersAction()
+  const { setLoaderSlice } = useLoaderAction()
+  const { handleSetError } = useUserActions()
 
-  return { filterOffer, setFilter, sortByModality }
+  useEffect(() => {
+    if (error) {
+      handleSetError('Ocurrió un error inesperado al realizar la petición')
+    }
+
+    // No hacer la petición de traer ofertas
+    // si cuando inicia se muestra el modal del usuario
+    if (modalUser) return
+
+    setLoaderSlice(true)
+    getOffersWithParams(filtersOffers)
+      .then(offers => {
+        handleSetOffers(offers)
+      })
+      .catch(err => {
+        console.error(err)
+        handleSetError('Ocurrió un error inesperado al realizar la petición')
+      })
+      .finally(() => {
+        setLoaderSlice(false)
+      })
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [filtersOffers])
+
+  return { filtersOffers }
 }

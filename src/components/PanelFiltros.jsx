@@ -1,28 +1,17 @@
 import { ItemFiltro } from './ItemFiltro'
 import { useAppSelector } from '../hooks/useStore'
 import { BtnCerrarModal } from './BtnCerrarModal'
-import { useEffect } from 'react'
 import { useModalActions } from '../hooks/useModalActions'
+import { useFilters } from '../hooks/useFilters'
 
 export const PanelFiltros = () => {
-  const filtersOffers = useAppSelector(state => state.filtersSlice)
   const modalFilter = useAppSelector(state => state.modalsSlice.modalFilter)
   const { toggleModals } = useModalActions()
+  const { filtersOffers } = useFilters()
 
   const handleModalFilter = () => {
-    toggleModals({ type: 'filter', showModal: false })
+    toggleModals('modalFilter', false)
   }
-
-  useEffect(() => {
-    const stringQueryParams = Object.keys(filtersOffers)
-      .reduce((totalString, offer) =>
-        totalString + filtersOffers[offer].value + '&', ''
-      )
-
-    const searchParams = new URLSearchParams(stringQueryParams)
-    console.log(searchParams.toString())
-    // sortByModality && sortByModality(checked ? value : '')
-  }, [filtersOffers])
 
   return (
     <aside className={`${modalFilter ? 'visible' : 'invisible'} md:visible bg-[var(--bg-item-offer)] rounded-md px-4 py-3 self-start fixed inset-0 z-20 overflow-auto md:sticky md:top-1 contenidoConScroll`}>

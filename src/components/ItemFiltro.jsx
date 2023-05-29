@@ -1,4 +1,3 @@
-// import { useFilters } from '../hooks/useFilters'
 import { useFiltersAction } from '../hooks/useFiltersAction'
 import { useAppSelector } from '../hooks/useStore'
 
@@ -12,7 +11,7 @@ export const ItemFiltro = ({
 }) => {
   const filtersOffers = useAppSelector(state => state.filtersSlice)
   const { handleSetFilters } = useFiltersAction()
-  // const { sortByModality } = useFilters()
+
   const handleSort = (e) => {
     const { value, checked, name, type } = e.target
     // Se construye el key value en un string
@@ -41,7 +40,7 @@ export const ItemFiltro = ({
           type={typeInput}
           name={nameInput}
           className='mt-1'
-          defaultChecked={isChecked}
+          checked={isChecked}
           value={value}
           onChange={handleSort}
         />
