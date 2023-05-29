@@ -4,14 +4,14 @@ Un clon de infojobs con la caracteristica de que le puedes proporcionar tu usuar
 
 Este proyecto es de una hackaton de infojobs y midudev
 
-## Caracteristicas
+## ⚙ Caracteristicas
 
-- Búsqueda automática de ofertas por usuario de github
-- Modo oscuro
-- Filtrar ofertas
-- Paginación
+- ⚡ Recomendación de ofertas por usuario de github
+- 🌓 Modo oscuro
+- 🔍 Filtrar ofertas
+- 📖 Paginación
 
-## Instalación
+## 💻 Instalación
 
 - Instala las dependencias
 

@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    {
+      "source": "/api",
+      "destination": "https://api.infojobs.net/api/"
+    }
+  ]
+}
