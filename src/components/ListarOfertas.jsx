@@ -1,37 +1,18 @@
-import { useState } from 'react'
-import { ModalOffer } from './ModalOffer'
 import { Pagination } from './Pagination'
 import { Oferta } from './Oferta'
-import ofertas from '../../public/offers.json'
-// import { obtenerOferta } from '../services/obtenerOferta'
+import { useAppSelector } from '../hooks/useStore'
 
 export const ListarOfertas = () => {
-  const [modalOffer, setModalOffer] = useState({
-    showModal: false,
-    offer: {}
-  })
-
-  const showModalOffer = (offer, showHide) => {
-    setModalOffer({
-      offer,
-      showModal: showHide
-    })
-  }
+  const listOffers = useAppSelector(state => state.offersSlice.listOffers)
 
   return (
     <section className='w-full'>
-      {modalOffer.showModal &&
-        <ModalOffer
-          oferta={modalOffer.offer}
-          showModalOffer={showModalOffer}
-        />}
       <ul className='flex flex-col gap-2'>
-        {ofertas?.items?.map(oferta => {
+        {listOffers?.map(oferta => {
           return (
             <Oferta
               key={oferta.id}
               oferta={oferta}
-              showModalOffer={showModalOffer}
             />
           )
         })}

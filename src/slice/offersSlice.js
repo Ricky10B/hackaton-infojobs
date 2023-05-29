@@ -1,27 +1,29 @@
 import { createSlice } from '@reduxjs/toolkit'
-import offers from '../../public/offers.json'
+import { initialStateOffers } from '../consts'
 
-const dataUsedOfOffers = ['id', 'title', 'province', 'city', 'link', 'contractType', 'workDay', 'teleworking', 'published', 'updated', 'author', 'requirementMin', 'bold', 'salaryDescription']
-
-const initialState = {
-  listOffers: offers.items.map(item => {
-    const filterDataOffers = Object.keys(item).filter(i => dataUsedOfOffers.includes(i))
-    const offers = filterDataOffers.map(data => [data, item[data]])
-    return Object.fromEntries(offers)
-  }),
-  currentPage: offers.currentPage,
-  totalResults: offers.totalResults,
-  totalPages: offers.totalPages,
-  queryParameters: offers.queryParameters
-}
+const initialState = (() => {
+  const offerStore = localStorage.getItem('__OFFER_STORE__')
+  return offerStore ? JSON.parse(offerStore) : initialStateOffers
+})()
 
 export const offerSlice = createSlice({
   name: 'offers',
   initialState,
   reducers: {
     setOffersList: (state, action) => {
-      console.log(state, action)
-      return state
+      const {
+        items,
+        currentPage,
+        totalResults,
+        totalPages
+      } = action.payload
+
+      return {
+        listOffers: items,
+        currentPage,
+        totalResults,
+        totalPages
+      }
     }
   }
 })
