@@ -54,7 +54,7 @@ export const Pagination = () => {
           )
         })}
 
-        {offers?.currentPage !== offers.totalPages && (
+        {offers?.currentPage < offers.totalPages && (
           <li
             className='leading-5 h-10'
             onClick={() => goToPage(offers.currentPage + 1)}
