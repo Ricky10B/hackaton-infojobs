@@ -1,7 +1,7 @@
 {
-  "redirects": [
+  "rewrites": [
     {
-      "source": "api/(.*)",
+      "source": "/api/(.*)",
       "destination": "https://api.infojobs.net/api/$1"
     }
   ]
