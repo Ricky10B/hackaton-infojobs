@@ -26,7 +26,11 @@ export const useFilters = () => {
     setLoaderSlice(true)
     getOffersWithParams(filtersOffers)
       .then(offers => {
+        if (offers.currentPage > offers.totalPages) {
+          offers.currentPage = offers.totalPages
+        }
         handleSetOffers(offers)
+        history.pushState({}, null, `?page=${offers.currentPage}`)
       })
       .catch(err => {
         console.error(err)

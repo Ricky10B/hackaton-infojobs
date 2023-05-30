@@ -1,9 +1,20 @@
 import { createSlice } from '@reduxjs/toolkit'
 import { initialStateFilters } from '../consts'
 
+let pageForDefault = new URLSearchParams(window.location.search).get('page')
+pageForDefault = pageForDefault === 'undefined' || Number(pageForDefault) < 1 ? '1' : pageForDefault
+
 const initialState = (() => {
   const filtersStore = localStorage.getItem('__FILTERS_STORE__')
-  return filtersStore ? JSON.parse(filtersStore) : initialStateFilters
+  return filtersStore
+    ? {
+        ...JSON.parse(filtersStore),
+        pages: {
+          ...JSON.parse(filtersStore)?.pages,
+          value: `page=${pageForDefault}`
+        }
+      }
+    : initialStateFilters
 })()
 
 export const filtersSlice = createSlice({

@@ -37,7 +37,7 @@ export const ModalOffer = ({ offer, handleShowModalOffer }) => {
               <ul className='flex flex-col gap-0'>
                 <li>
                   <a
-                    href={offer?.profile?.corporateWebsiteUrl}
+                    href={(offer?.profile?.corporateWebsiteUrl.startsWith('//') ? 'https:' : 'https://www.infojobs.net/') + offer?.profile?.corporateWebsiteUrl}
                     target='_blank'
                     rel='noreferrer'
                     className='text-[var(--enlace-empresa-oferta)]  hover:text-[var(--enlace-empresa-oferta-hover)] hover:underline'
