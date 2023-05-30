@@ -1,5 +1,5 @@
 let pageForDefault = new URLSearchParams(window.location.search).get('page')
-pageForDefault = pageForDefault && Number(pageForDefault) < 1 ? '1' : pageForDefault
+pageForDefault = pageForDefault === 'undefined' || Number(pageForDefault) < 1 ? '1' : pageForDefault
 
 export const IMAGE_COMPANY_DEFAULT = 'https://components.infojobs.com/statics/images/pic-company-logo.png'
 
