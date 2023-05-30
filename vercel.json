@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/(.*)",
-      "destination": "https://api.infojobs.net/api/$1"
+      "source": "/api/:match*",
+      "destination": "https://api.infojobs.net/api/:match*"
     }
   ]
 }
