@@ -8,6 +8,8 @@ import { useModalActions } from './hooks/useModalActions'
 import { LoaderInfojobs } from './components/LoaderInfojobs'
 
 function App () {
+  console.log(process.env.VITE_API_INFOJOBS)
+  console.log(import.meta.env.VITE_API_INFOJOBS)
   const totalResults = useAppSelector(state => state.offersSlice.totalResults)
   const showLoader = useAppSelector(state => state.loaderSlice.showLoader)
   const { value } = useAppSelector(state => state.filtersSlice.query)
