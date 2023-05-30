@@ -2,6 +2,13 @@
   "redirects": [
     {
       "source": "/api",
+      "destination": "https://api.infojobs.net/api/",
+      "statusCode": "200"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/api",
       "destination": "https://api.infojobs.net/api/"
     }
   ]
