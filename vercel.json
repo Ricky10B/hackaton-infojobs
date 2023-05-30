@@ -3,7 +3,7 @@
     {
       "source": "/api",
       "destination": "https://api.infojobs.net/api/",
-      "statusCode": "200"
+      "statusCode": 200
     }
   ],
   "rewrites": [
