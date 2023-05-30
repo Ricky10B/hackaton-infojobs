@@ -1,4 +1,4 @@
 [[redirects]]
-  src = "/api/*"
-  dest = "/api/:splat"
-  status = 200
+fron = "/api/*"
+to = "/api/:splat"
+status = 200
