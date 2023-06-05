@@ -136,5 +136,72 @@ export const initialStateFilters = {
         isChecked: false
       }
     ]
+  },
+  contractType: {
+    key: 'contractType',
+    value: '',
+    dataFilters: [
+      {
+        text: 'Indefinido',
+        value: 'indefinido',
+        isChecked: false
+      },
+      {
+        text: 'Otros contratos',
+        value: 'otros-contratos',
+        isChecked: false
+      },
+      {
+        text: 'De duración determinada',
+        value: 'de-duracion-determinada',
+        isChecked: false
+      },
+      {
+        text: 'Formativo',
+        value: 'formativo',
+        isChecked: false
+      },
+      {
+        text: 'Fijo discontinuo',
+        value: 'fijo-discontinuo',
+        isChecked: false
+      },
+      {
+        text: 'Autónomo',
+        value: 'autonomo',
+        isChecked: false
+      }
+    ]
+  },
+  workDay: {
+    key: 'workday',
+    value: '',
+    dataFilters: [
+      {
+        text: 'Completa',
+        value: 'completa',
+        isChecked: false
+      },
+      {
+        text: 'Indiferente',
+        value: 'indiferente',
+        isChecked: false
+      },
+      {
+        text: 'Intensiva - Mañana',
+        value: 'intensiva-manana',
+        isChecked: false
+      },
+      {
+        text: 'Parcial - Mañana',
+        value: 'parcial-manana',
+        isChecked: false
+      },
+      {
+        text: 'Parcial - Indiferente',
+        value: 'parcial-indiferente',
+        isChecked: false
+      }
+    ]
   }
 }

@@ -15,11 +15,12 @@ export const PanelFiltros = () => {
 
   return (
     <aside className={`${modalFilter ? 'visible' : 'invisible'} md:visible bg-[var(--bg-item-offer)] rounded-md px-4 py-3 self-start fixed inset-0 z-20 overflow-auto md:sticky md:top-1 contenidoConScroll`}>
-      <BtnCerrarModal
-        clickedModalUser={handleModalFilter}
-        customStyles={`${modalFilter ? 'visible' : 'invisible'} p-2 absolute right-[2%] top-[1%] visible md:invisible`}
-      />
-      <div className='flex flex-col gap-4 h-[95vh] overflow-auto contenidoConScroll'>
+      <div className={`${modalFilter ? 'visible' : 'invisible'} p-2 absolute right-8 top-2 visible md:invisible [&>span]:inline-block`}>
+        <BtnCerrarModal
+          clickedModalUser={handleModalFilter}
+        />
+      </div>
+      <div className='flex flex-col gap-10 h-[95vh] overflow-auto contenidoConScroll'>
         <fieldset>
           <legend className='font-medium py-1'>Ordenar ofertas</legend>
           <ul className='flex flex-col gap-1'>
@@ -79,6 +80,40 @@ export const PanelFiltros = () => {
                 key={oferta.value}
                 contentLabel={oferta.text}
                 nameInput='categoryOffer'
+                typeInput='checkbox'
+                value={oferta.value}
+                isChecked={oferta.isChecked}
+                positionDataFilter={i}
+              />
+            ))}
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend className='font-medium py-1'>Jornada laboral</legend>
+          <ul className='flex flex-col gap-2'>
+            {filtersOffers.workDay.dataFilters.map((oferta, i) => (
+              <ItemFiltro
+                key={oferta.value}
+                contentLabel={oferta.text}
+                nameInput='workDay'
+                typeInput='checkbox'
+                value={oferta.value}
+                isChecked={oferta.isChecked}
+                positionDataFilter={i}
+              />
+            ))}
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend className='font-medium py-1'>Tipo de contrato</legend>
+          <ul className='flex flex-col gap-2'>
+            {filtersOffers.contractType.dataFilters.map((oferta, i) => (
+              <ItemFiltro
+                key={oferta.value}
+                contentLabel={oferta.text}
+                nameInput='contractType'
                 typeInput='checkbox'
                 value={oferta.value}
                 isChecked={oferta.isChecked}
