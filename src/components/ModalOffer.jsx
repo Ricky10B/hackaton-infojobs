@@ -20,10 +20,11 @@ export const ModalOffer = ({ offer, handleShowModalOffer }) => {
     <div className='fixed inset-0 backdrop-blur grid place-content-center z-50'>
       <div className='flex flex-col gap-3 m-4 rounded-2xl shadow-[0_0_17px_rgba(0,0,0,.5)] bg-[var(--bg-modal-offer)] max-w-7xl w-[95%] sm:w-10/12 lg:w-[75%] xl:w-[70%] h-[95%] mx-auto overflow-auto contenidoConScroll'>
         <header className='flex flex-col gap-5 px-5 py-4 relative  sm:sticky sm:top-0 sm:bg-[var(--bg-header-modal-offer)] pb-1 sm:pb-2 sm:border-b sm:border-b-solid sm:border-b-[rgba(0,0,0,.4)]'>
-          <BtnCerrarModal
-            clickedModalUser={() => handleShowModalOffer(false)}
-            customStyles='fixed sm:absolue top-[3%] right-[6%] sm:right-[11%] lg:right-[15%] xl:right-[19%] p-1'
-          />
+          <div className='absolute top-2 right-2 [&>span]:p-1 [&>span]:inline-block'>
+            <BtnCerrarModal
+              clickedModalUser={() => handleShowModalOffer(false)}
+            />
+          </div>
           <div className='flex flex-col sm:grid sm:grid-cols-[minmax(6em,8em)_1fr] items-center gap-3'>
             <picture className='rounded-full shadow-[0_1px_7px_rgba(0,0,0,.6)]'>
               <img
