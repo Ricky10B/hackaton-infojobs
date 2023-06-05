@@ -5,13 +5,10 @@ import { InfoCard } from './InfoCard'
 import { ModalOffer } from './ModalOffer'
 import { useState } from 'react'
 import { obtenerOferta } from '../services/obtenerOferta'
-import { useLoaderAction } from '../hooks/useLoaderAction'
 
 export const Oferta = ({ oferta }) => {
   const [showModal, setShowModal] = useState(false)
   const [offer, setOffer] = useState({})
-
-  const { setLoaderSlice } = useLoaderAction()
 
   const handleShowModalOffer = (showHide) => {
     if (!showHide) {
@@ -19,7 +16,6 @@ export const Oferta = ({ oferta }) => {
       return
     }
 
-    setLoaderSlice(true)
     obtenerOferta(oferta.id)
       .then(resOffer => {
         setOffer(resOffer)
@@ -28,9 +24,6 @@ export const Oferta = ({ oferta }) => {
       .catch(err => {
         console.error(err)
         throw new Error('No se pudo obtener la oferta')
-      })
-      .finally(() => {
-        setLoaderSlice(false)
       })
   }
 
