@@ -5,7 +5,7 @@ import { useOffersAction } from './useOffersActions'
 import { useLoaderAction } from './useLoaderAction'
 import { useUserActions } from './useUserActions'
 
-export const useFilters = () => {
+export const useFilters = (showLoader = true) => {
   const filtersOffers = useAppSelector(state => state.filtersSlice)
   const { modalUser } = useAppSelector(state => state.modalsSlice)
   const error = useAppSelector(state => state.userSlice.error)
@@ -23,7 +23,7 @@ export const useFilters = () => {
     // si cuando inicia se muestra el modal del usuario
     if (modalUser) return
 
-    setLoaderSlice(true)
+    setLoaderSlice(showLoader)
     getOffersWithParams(filtersOffers)
       .then(offers => {
         if (offers.currentPage > offers.totalPages) {

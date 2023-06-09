@@ -31,6 +31,9 @@ export const initialStateFilters = {
   sortOffers: {
     key: 'order',
     value: 'order=relevancia-desc',
+    title: 'Ordenar ofertas',
+    nameInput: 'sortOffers',
+    typeInput: 'radio',
     dataFilters: [
       {
         text: 'Fecha de publicación',
@@ -47,6 +50,9 @@ export const initialStateFilters = {
   dateOffer: {
     key: 'sinceDate',
     value: 'sinceDate=ANY',
+    title: 'Fecha',
+    nameInput: 'dateOffer',
+    typeInput: 'radio',
     dataFilters: [
       {
         text: 'Cualquier fecha',
@@ -73,6 +79,9 @@ export const initialStateFilters = {
   modality: {
     key: 'teleworking',
     value: '',
+    title: 'Modalidad',
+    nameInput: 'modality',
+    typeInput: 'checkbox',
     dataFilters: [
       {
         text: 'Híbrido',
@@ -99,6 +108,9 @@ export const initialStateFilters = {
   categoryOffer: {
     key: 'category',
     value: '',
+    title: 'Categoría del puesto',
+    nameInput: 'categoryOffer',
+    typeInput: 'checkbox',
     dataFilters: [
       {
         text: 'Administración de empresas',
@@ -140,6 +152,9 @@ export const initialStateFilters = {
   contractType: {
     key: 'contractType',
     value: '',
+    title: 'Tipo de contrato',
+    nameInput: 'contractType',
+    typeInput: 'checkbox',
     dataFilters: [
       {
         text: 'Indefinido',
@@ -176,6 +191,9 @@ export const initialStateFilters = {
   workDay: {
     key: 'workday',
     value: '',
+    title: 'Jornada laboral',
+    nameInput: 'workDay',
+    typeInput: 'checkbox',
     dataFilters: [
       {
         text: 'Completa',

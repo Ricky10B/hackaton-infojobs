@@ -7,14 +7,12 @@ export const useFiltersAction = () => {
   const handleSetFilters = (
     name,
     newValueFilter,
-    positionDataFilter,
-    checked
+    dataFilters
   ) => {
     dispatch(setFilters({
       name,
       newValueFilter,
-      positionDataFilter,
-      checked
+      dataFilters
     }))
   }
 
