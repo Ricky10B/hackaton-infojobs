@@ -22,30 +22,18 @@ export const filtersSlice = createSlice({
   initialState,
   reducers: {
     setFilters: (state, action) => {
-      const { name, newValueFilter, positionDataFilter, checked } = action.payload
-
-      // Actualización del input de filtrado
-      // de chekeado o no en los dataFilters
-      // de cada sección de filtrado
-      const newDataFilters = [...state[name].dataFilters]
-      const dataFilter = {
-        ...newDataFilters[positionDataFilter],
-        isChecked: checked
-      }
-      newDataFilters[positionDataFilter] = dataFilter
+      const { name, newValueFilter, dataFilters } = action.payload
 
       // Actualización del valor del queryParam
       // y del dataFilters de una sección de
       // filtrado especifica
-      const seccionFiltrado = {
-        ...state[name],
-        value: newValueFilter,
-        dataFilters: newDataFilters
-      }
-
       return {
         ...state,
-        [name]: seccionFiltrado
+        [name]: {
+          ...state[name],
+          value: newValueFilter,
+          dataFilters
+        }
       }
     },
     goToPage: (state, action) => {

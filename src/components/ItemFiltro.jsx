@@ -7,7 +7,8 @@ export const ItemFiltro = ({
   contentLabel,
   isChecked,
   value,
-  positionDataFilter
+  positionDataFilter,
+  dataFilters
 }) => {
   const filtersOffers = useAppSelector(state => state.filtersSlice)
   const { handleSetFilters } = useFiltersAction()
@@ -21,6 +22,8 @@ export const ItemFiltro = ({
     // Agregar o eliminar el key value del string
     // si el input está checkeado o no
     let newValueFilter = dataQuery
+    let newDataFilters = structuredClone(dataFilters)
+
     if (type === 'checkbox') {
       newValueFilter = filtersOffers[name].value + '&' + dataQuery
 
@@ -30,7 +33,24 @@ export const ItemFiltro = ({
       }
     }
 
-    handleSetFilters(name, newValueFilter, positionDataFilter, checked)
+    if (type === 'radio') {
+      // Eliminar el checkeo de todos los inputs de tipo radio
+      // para que el filtrado funcione correctamente
+      newDataFilters = newDataFilters.map(dataFilter => ({
+        ...dataFilter,
+        isChecked: false
+      }))
+    }
+
+    // Actualización del input de filtrado
+    // de checkeado o no en los dataFilters
+    // de cada sección de filtrado
+    newDataFilters[positionDataFilter] = {
+      ...newDataFilters[positionDataFilter],
+      isChecked: checked
+    }
+
+    handleSetFilters(name, newValueFilter, newDataFilters)
   }
 
   return (
